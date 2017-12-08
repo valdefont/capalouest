@@ -12,7 +12,8 @@ $(window).scroll(function() {
  
        if (scroll >= 500) {
          $('.main_header').css({'height' : '70px'});
+         $('.main_header').css({'opacity' : '50%'});
          $('.main_header').css({'padding-top' : '5px' , 'padding-bottom' : '0px'});
-         $('.logo').css('font-size', '10pt');
+         $('.logo').css('font-size', '20pt');
      } 
 });
