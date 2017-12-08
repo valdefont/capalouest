@@ -11,11 +11,7 @@ $(window).scroll(function() {
            var scroll = $(window).scrollTop();
  
        if (scroll >= 550) {
-         $('.main_header').css({'width' : '150px'});
+         $('.main_header').css({'height' : '150px'});
          $('.main_header').css({'padding-top' : '5px' , 'padding-bottom' : '0px'});
-     } else{
-         $('.main_header').css({'width' : '180px' , 'height' : '82px'});
-         $('.main_header').css({'padding-top' : '40px' , 'padding-bottom' : '40px'});
- 
-    }
+     } 
 });
