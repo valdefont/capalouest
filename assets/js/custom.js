@@ -11,7 +11,7 @@ $(window).scroll(function() {
            var scroll = $(window).scrollTop();
  
        if (scroll >= 550) {
-         $('.main_header').css({'height' : '150px'});
+         $('.main_header').css({'height' : '70px'});
          $('.main_header').css({'padding-top' : '5px' , 'padding-bottom' : '0px'});
      } 
 });
