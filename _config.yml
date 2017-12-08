@@ -9,7 +9,7 @@ baseurl: "/capalouest" # the subpath of your site, e.g./bef /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: video_blog.mp4 # add banner video. Add your video file to the folder video
+video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
