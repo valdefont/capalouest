@@ -10,8 +10,9 @@ $(window).scroll(function() {
   }*/
            var scroll = $(window).scrollTop();
  
-       if (scroll >= 550) {
+       if (scroll >= 500) {
          $('.main_header').css({'height' : '70px'});
          $('.main_header').css({'padding-top' : '5px' , 'padding-bottom' : '0px'});
+         $('.logo span').css('color', '#A9BCF5');
      } 
 });
