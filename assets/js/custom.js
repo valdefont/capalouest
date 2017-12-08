@@ -13,6 +13,6 @@ $(window).scroll(function() {
        if (scroll >= 500) {
          $('.main_header').css({'height' : '70px'});
          $('.main_header').css({'padding-top' : '5px' , 'padding-bottom' : '0px'});
-         $('.logo span').css('color', '#A9BCF5');
+         $('.logo').css('font-size', '10pt');
      } 
 });
