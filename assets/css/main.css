@@ -3930,7 +3930,7 @@ cite {
    opacity:30%;
    width:100%;
   padding: 2rem;
-  /*display: -webkit-box;
+  display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -3941,7 +3941,7 @@ cite {
   -webkit-box-align: center;
   -webkit-align-items: center;
       -ms-flex-align: center;
-          align-items: center;*/
+          align-items: center;
   background-color: #2E2E2E;
   z-index: 1;
 }
