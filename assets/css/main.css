@@ -3927,7 +3927,7 @@ cite {
 
 .main_header {
   position:fixed;
-   opacity:30%;
+   opacity:0.7;
    width:100%;
   padding: 2rem;
   display: -webkit-box;
