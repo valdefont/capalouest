@@ -2,11 +2,11 @@
   position: fixed;
   top: -2px;
   right: 40px;
-  width: 10px;
-  height: 10px;
+  width: 30px;
+  height: 30px;
   display: block;
   cursor: pointer;
-  transition: opacity 1s linear;
+  transition: opacity 0.8s linear;
 }
 
 .open:hover { opacity: 0.8; }
@@ -24,6 +24,11 @@
   top: 3px;
   overflow: hidden;
   transition: all 0.4s ease;
+}
+
+.oppenned span{
+  height: 3px;
+  width: 30px;
 }
 
 
@@ -45,7 +50,7 @@
   position: absolute;
   background-color: rgba(38, 84, 133, 0.54);
   border-radius: 50%;
-  z-index: 18;
+  z-index: 999;
   overflow: hidden;
 }
 
@@ -84,17 +89,21 @@
   opacity: 1;
   height: 400px;
   width: 400px;
+
+
 }
 
-.oppenned span:nth-child(2) { overflow: visible; }
+
+
+.oppenned span:nth-child(2) { overflow: visible;  }
 
 .oppenned span:nth-child(1),
 .oppenned span:nth-child(3) {
-  z-index: 100;
+ 
   transform: rotate(45deg);
 }
 
-.oppenned span:nth-child(1) { transform: rotate(45deg) translateY(12px) translateX(12px); }
+.oppenned span:nth-child(1) { transform: rotate(45deg) translateY(12px) translateX(12px); z-index: 1000; }
 
 .oppenned span:nth-child(2) {
   height: 400px;
@@ -102,9 +111,10 @@
   right: -160px;
   top: -160px;
   border-radius: 50%;
-  background-color: rgba(38, 84, 133, 0.54);
+  background-color: blue;
+ 
 }
 
-.oppenned span:nth-child(3) { transform: rotate(-45deg) translateY(-2px) translateX(2px); }
+.oppenned span:nth-child(3) { transform: rotate(-45deg) translateY(-2px) translateX(2px); z-index: 999;  }
 
 .oppenned li { margin-right: 168px; }
