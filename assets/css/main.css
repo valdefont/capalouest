@@ -3929,6 +3929,7 @@ cite {
   position:fixed;
    opacity:0.8!important;
    width:100%;
+top:0px;
   padding: 2rem;
   display: -webkit-box;
   display: -webkit-flex;
