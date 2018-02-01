@@ -4541,9 +4541,10 @@ top:0px;
   position: absolute;
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
-  width: 600px;
+  width: 800px;
+  
   max-width: 90%;
-  top: 50%;
+  margin-top: 35%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
