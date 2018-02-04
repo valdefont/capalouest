@@ -4564,6 +4564,50 @@ margin:0;
   background-repeat: no-repeat;
 }
 
+.projet_box {
+  
+  -webkit-border-radius: 0.5rem;
+          border-radius: 0.5rem;
+  background-color:white;
+  width: 800px;  
+  height:800px;
+  max-width: 90%;
+  margin-top:2%;
+  margin-left: auto;
+  margin-right:auto;
+  /*-webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);*/
+  overflow: hidden;
+  z-index:999;
+}
+
+.projet .projet_image {
+  float: left;
+  display: inline-block;
+  margin-top:2%;
+  width: 95%;
+  height: 95%;
+  overflow: hidden;
+  margin-left: 2%;
+}
+
+.projet .projet_image img {
+  width: 100%;
+}
+
+.projet{
+margin:0;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 700px;
+  background-image: url(../img/bg_projet.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
 .about .author {
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
