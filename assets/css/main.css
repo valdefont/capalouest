@@ -4570,7 +4570,7 @@ margin:0;
           border-radius: 0.5rem;
   background-color:white;
   width: 800px;  
-  height:800px;
+  height:2000px;
   max-width: 90%;
   margin-top:2%;
   margin-left: auto;
@@ -4606,6 +4606,15 @@ margin:0;
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
+}
+
+.projet_text{
+  float: left;
+  display: inline-block;
+  margin-top:2%;
+  width: 95%;
+  overflow: hidden;
+  margin-left: 2%;
 }
 
 .about .author {
