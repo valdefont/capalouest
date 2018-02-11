@@ -16,6 +16,7 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg #  your photo
+author-small: face_small.jpg #  your photo
 author-name: # your name
 about-author: # about author
 email: jordi_cuchet@hotmail.com # your email
