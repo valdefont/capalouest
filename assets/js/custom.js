@@ -15,5 +15,6 @@ $(window).scroll(function() {
          $('.main_header').css("cssText", "opacity: 1.0 !important;");
          $('.main_header').css({'padding-top' : '5px' , 'padding-bottom' : '0px'});
          $('.logo').css('font-size', '23pt');
+           $('.DivMenu').hide();
      } 
 });
