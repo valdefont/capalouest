@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "J-10"
+title: "J-7"
 img: luggage.jpg # Add image post (optional)
-date: 2018-02-10 12:55:00 +0300
+date: 2018-02-13 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [bagage, Depart]
 ---
-J-10: le temps s'accèlère. On a encore du mal à réaliser que dans 10 jours, nous serons de l'autre coté de l'Atlantique. 
+J-7: le temps s'accèlère. On a encore du mal à réaliser que dans 7 jours, nous serons de l'autre coté de l'Atlantique. 
 Encore pas mal de choses à finaliser....Tic tac tic tac....
 C'est une semaine un peu spéciale, la dernière à l'école pour les enfants qui vont présenter leur projet aux copains. 
 Allez hop, on r'tourne à nos valises....
