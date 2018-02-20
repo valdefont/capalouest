@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Jour J"
+img: airport.jpg # Add image post (optional)
+date: 2018-02-20 10:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: [bagage, Depart]
+---
+Jour J: C'est parti ! On est à Copenhague, en partance pour
+ San Francisco. Les enfants viennent de faire leur baptème de l'air....: un grand moment !
+ En plus, les hôtesses ont été sympas car il y a même eu des bonbons; c'est la fête quoi !!!
+ <br/> <br/> <br/>
+ <p> Creation du blog à l'aéroport :</p>
+![I and My friends]({{site.baseurl}}/assets/img/blog_creation.jpg)
+<br/>
+
+
+
