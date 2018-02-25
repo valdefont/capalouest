@@ -1,0 +1,54 @@
+---
+layout: post
+title: "San Francisco"
+img: SF.jpg # Add image post (optional)
+date: 2018-02-23 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>Après un voyage sans turbulence, on débarque enfin sur la terre promise, fatigués mais heureux de pouvoir commencer ce voyage. 
+Nous avions bien repéré le trajet entre l'aéroport et l'hôtel, mais avions juste oublié un détail : à San Francisco, ça monte !!!
+La montée de California Street avec les valises est rude, mais enfin, nous apercevons l'auberge de jeunesse.. Enfin, on ne sait pas si l'on peut appeler ça
+une auberge... Il ne faut pas être trop regardant sur la propreté, sans compter les odeurs...<br/>
+Nous avons 3 jours devant nous pour visiter la ville. Nous commençons par un tour en bus qui nous permet d'avoir une vue d'ensemble de la ville mais surtout
+de passer sur le Golden Gate Bridge, l'emblême de la ville. De l'autre coté du pont, la vue sur la baie de San Francisco est superbe.</p>
+
+ <br/> 
+ <h3> Balade au Golden Gate Bridge :</h3>
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF1.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF2.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF5.JPG)
+ <h3> Les rues de San Francisco :</h3>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SanFrancisco/SF3.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SanFrancisco/SF6.JPG" alt="">
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF9.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF7.JPG)
+ <h3> Les buildings :</h3>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SanFrancisco/SF8.JPG" alt="">
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF4.JPG)
+ <h3> Chinatown :</h3>
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF14.JPG)
+ <h3> La visite de la prison d'Alcatraz :</h3>
+ <p>L'île d'Alcatraz est l'une des attractions de la ville. Les prisonniers les plus récalcitrants y étaient envoyés, le plus connu d'entre-eux étant Al Capone.
+ Elle fût fermée en 1963. La visite est très bien faite et glaçe parfois le sang, tant les conditions de détention étaient rudes. <br/>
+ Finalement, notre chambre à l'auberge de jeunesse n'est pas si spartiate...!</p>
+ 
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF10.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF11.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF12.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SanFrancisco/SF13.JPG" alt="">
+
+ <h3> Les lions de mer à Fisherman's Warf:</h3>
+ <p> La visite de la ville se termine dans le quartier de Fisherman's Warf, le front de mer très touristique de San Francisco. </p>
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF15.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF16.JPG)
+ <h3> Quelle horreur ! : de la bonne nourriture US....</h3>
+![I and My friends]({{site.baseurl}}/assets/img/SanFrancisco/SF17.JPG)
+<br/>
+ <p>Mis à part la nourriture (malheureusement conforme à nos attentes!) et la vie très chère, nous avons beaucoup apprécié 
+ cette ville qui semble agréable à vivre, d'autant plus sous le soleil. Cependant, les enfants ont été choqués par le nombre de sans-abris qui côtoient les buisness men
+ dans "Financial district". </p>
+<br/>
+
+
+

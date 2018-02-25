@@ -4981,3 +4981,13 @@ margin:0;
     font-size: 1.2rem;
   }
 }
+
+.Rot90{
+transform: rotate(90deg);
+}
+.Rot270{
+transform: rotate(270deg);
+padding-top: 20%;
+padding-bottom: 20%;
+
+}
