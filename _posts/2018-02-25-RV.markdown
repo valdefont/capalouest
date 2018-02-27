@@ -1,0 +1,36 @@
+---
+layout: post
+title: "En route !"
+img: RV.jpg # Add image post (optional)
+date: 2018-02-25 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>Ça y est, on a le bolide ! On est légèrement stressé au volant pendant les premiers miles mais finalement, ce n'est pas désagréable à conduire.<br/>
+Ça paraît grand mais lorsque l'on est garé à coté des autres camping-cars pour notre première nuit au camping, on relativise...certains sont de la taille d'un bus !
+</p>
+ <br/> 
+![I and My friends]({{site.baseurl}}/assets/img/RV/RV2.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/RV/3.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/RV/4.JPG" alt="">
+ 
+ Pour le deuxième jour à bord de notre maison sur roues: petite virée au nord de « Frisco », vers Point Reyes. 
+ Plage en partie fermée pour cause « d ‘invasion » d'éléphants de mer. Ils ressemblent un peu à des limaces géantes, enfoncées dans le sable, 
+ qui se dorent la pilule au soleil...
+ On ne peut les approcher car ils sont protégés et n’aiment pas trop la présence humaine.
+  ![I and My friends]({{site.baseurl}}/assets/img/RV/1_.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/RV/2_.JPG)
+  ![I and My friends]({{site.baseurl}}/assets/img/RV/3_.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/RV/4_.JPG)
+  ![I and My friends]({{site.baseurl}}/assets/img/RV/5.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/RV/6.JPG)
+ 
+<br/>Fin de journée: nuit à Sausalito, de l'autre côté de la baie de San Francisco.
+   ![I and My friends]({{site.baseurl}}/assets/img/RV/7.JPG)
+
+
+
+
+
+
+
