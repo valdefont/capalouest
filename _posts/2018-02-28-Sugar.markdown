@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Brêves de voyage..."
+img: sugar.jpg # Add image post (optional)
+date: 2018-02-28 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>
+- Antoine sous antibio au 2ème jour du voyage..., visite de SF avec 39°. On entame un peu vite les stocks de médocs...
+<br/><br/>
+- Les américains, au moins en Californie pour l'instant, sont hyper serviables et rendant service dès qu'ils nous voient chercher quelque chose. Ou alors on a vraiment l'air de touristes complètement perdus!!! Ils sont aussi super courtois au volant; ça change un peu de la France!
+<br/><br/>
+- Grosse frayeur au moment de prendre le RV (abréviation US pour camping-car): le monsieur nous dit qu'il ne peut nous le donner car la réservation est au nom de Jordi et la CB à mon nom... Il ne veut rien savoir; le livret de famille, l'attestation de notre Pacs... rien n'y fait. Et en plus ce monsieur (le seul américain pas très sympa dont nous avons croisé la route pour l'instant) nous prend de haut. On est blême... Il consent tout de même à appeler son boss. Ouf, c'est bon après une petite leçon de ce gentil monsieur... mais bon, on ne la ramène pas. On part avec la bête!!
+<br/><br/>
+- Les courses: ouh là là, c'est toute une histoire! On n'a pas du tout les mêmes repères.  Du coup, on passe beaucoup de temps pour remplir notre caddie de produits corrects sans trop exploser le budget. 
+Énormes: la taille des rayons de chips, de sodas (moins chers que l'eau!).
+Rare: le pain sans sucre, denrée difficile à dénicher.
+Beurk: les gâteaux degoulinants de crème, de sucre, des pots de gélatine, des sandwichs à... ben justement on ne sait pas!
+<br/><br/>
+- Rouler avec le RV et entendre la vaisselle d'un placard tomber par terre, ça c'est fait! Oups, on a eu peur mais par chance, une seule assiette cassée! Il faut dire que les routes US sont vraiment souvent en mauvais état. Ça aussi, ça change de la France!
+
+</p>
+
+
+
+
+
+
+
