@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Un grand moment..."
+img: whale.jpg # Add image post (optional)
+date: 2018-03-01 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>Oui, ce fut un grand moment, mais ça dépend pour qui...<br/>
+Nous partons de bon matin pour une croisière aux baleines dans la baie de Monterey, au sud de San Francisco. L'un des rêves des enfants pour ce voyage est en effet 
+de voir des mammifères marins.<br/>
+Le voyage commence tranquillement: nous observons les otaries qui se prélasssent non loin du port.<br/>
+Mais ça tangue sec pour rejoindre le large...Les estomacs sont soumis à rude épreuve, surtout celui de Carine qui finit par nourrir les poissons à plusieurs reprises.<br/>
+Le reste de la famille n'est pas au mieux mais profite tout de même du spectacle grandiose qui s'offre à lui. Au printemps, les baleines grises remontent en effet du Mexique 
+jusqu'en Alaska. Certaines peuvent parcourir plus de 20000 kilomètres par an. Nous avons même la chance d'apercevoir d'assez près un rorqual commun.<br/>
+C'est assez secoués mais ravis que nous rejoignons la terre ferme. A priori, les enfants ne veulent pas devenir marins-pêcheurs....
+Quant à Carine, s'il fallait choisir, ce ne serait ni les airs ni la mer mais définitivement le plancher des vaches...(Vosgiennes:-))
+
+</p>
+ <br/> 
+![I and My friends]({{site.baseurl}}/assets/img/Monterey/Mont1.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/Monterey/Mont2.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/Monterey/Mont3.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Monterey/Mont4.JPG" alt="">
+ ![I and My friends]({{site.baseurl}}/assets/img/Monterey/Mont5.JPG)
+ ![I and My friends]({{site.baseurl}}/assets/img/Monterey/Mont6.JPG)
+
+
+
+
+
+
+
+
+
+
