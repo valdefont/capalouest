@@ -4984,6 +4984,8 @@ margin:0;
 
 .Rot90{
 transform: rotate(90deg);
+padding-top: 20%;
+padding-bottom: 20%;
 }
 .Rot270{
 transform: rotate(270deg);

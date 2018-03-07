@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Sud nous voilà !"
+img: South.JPG # Add image post (optional)
+date: 2018-03-04 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>
+Après nous être remis de notre escapade maritime, nous descendons vers le sud. Nous commençons par faire un tour sur la route "one".
+Très belle côte éscarpée que nous ne pouvons pas parcourir dans sa totalité à cause de coulées de boues. Dommage! <br/>  <br/> 
+Etape suivante :Santa Barbara. Très belle plage et la mer est magnifique. <br/>
+Nous étions sur un ponton de bois et  Gabin laisse tomber son  ipod dans l'eau du pacifique 
+(sans faire exprès car il y avait plein de planches serrées et il a fallu qu'il tombe entre deux rares planches écartées).
+ Dégouté! Si par hasard vous passez par là mettez vous en recherche de l'ipod égaré.
+   <br/>  <br/> 
+  Nous longeons la côte pendant des kilomètres et nous voyons qu'un incendie survenu en décembre dernier a tout ravagé sur son passage. C'est triste.
+   Quand nous nous installons au camping, c'est encore pire.  <br/> Il y avait aussi des paons qui semblaient intéressés par notre camping-car. 
+   Nous les avons vus de tout près. Ensuite, direction Los Angeles,
+  mais avant: la super plage de Malibu. <br/> Au dessus de la ville de belles collines avec dessus des villas toutes plus luxueuses les unes que les autres. <br/>
+   Depuis là, belle vue sur Los Angeles qui est énorme.
+ </p>
+  Cet article a été rédigé par Gabin.
+ <br/> 
+ <h3> La route "one" au sud de Monterey :</h3>
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S1.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S2.JPG)
+ <br/> cam
+ <h3> Santa Barbara :</h3>
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S3.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/ToSouth/S4.JPG" alt="">
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S5.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/ToSouth/S6.JPG" alt="">
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S7.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S8.JPG)
+
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S9.JPG)
+ <br/> 
+ <h3> Notre beau camping incendié</h3>
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S10.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S11.JPG)
+
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S12.JPG)
+  <br/> 
+ <h3> Malibu :</h3>
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S13.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/ToSouth/S14.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/ToSouth/S15.JPG" alt="">
+ <br/>Nous avons retrouvé les maîtres-nageurs mais pas Pamela...
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S16.JPG)
+<img class="Rot90" src="{{site.baseurl}}/assets/img/ToSouth/S17.JPG" alt="">
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S18.JPG)
+![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S19.JPG)
+
+
+
+
+
+
+
+
+
+
