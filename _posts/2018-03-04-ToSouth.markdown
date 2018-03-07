@@ -25,7 +25,7 @@ Nous étions sur un ponton de bois et  Gabin laisse tomber son  ipod dans l'eau 
  <h3> La route "one" au sud de Monterey :</h3>
 ![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S1.JPG)
 ![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S2.JPG)
- <br/> cam
+ <br/>
  <h3> Santa Barbara :</h3>
 ![I and My friends]({{site.baseurl}}/assets/img/ToSouth/S3.JPG)
 <img class="Rot270" src="{{site.baseurl}}/assets/img/ToSouth/S4.JPG" alt="">
