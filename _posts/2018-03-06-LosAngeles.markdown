@@ -16,7 +16,7 @@ tag:
     Les villas luxueuses laissent place à d'autres villas luxueuses... on poursuit jusqu'au quartier de 
     Mulholland (on réhausse un peu le niveau culturel:-))
     mais celui-ci ne nous transcende pas non plus.<br/>
-    Vient ensuite Hollywood boulevard et le fameux "Walk of fame". Bon, si je vous dit que là encore 
+    Vient ensuite Hollywood boulevard et le fameux "Walk of fame". Bon, si je vous dis que là encore 
     on est déçu (mais pas surpris), ça fait un peu enfants gâtés...
     mais franchement, oui il y a les célèbres étoiles tout au long du trottoir et sinon? Rien. Pas besoin de
     lever les yeux, le quartier et l'architecture sont sans intérêt.</p>
