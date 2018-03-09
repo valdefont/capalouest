@@ -6,7 +6,7 @@ date: 2018-03-06 20:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: 
 ---
-<p>Nous voilà à LA!! <br/> 
+<p>Nous voilà à L.A.!! <br/> 
     Ça y est, on sort les tee-shirts et les shorts puis on file vers la ville.
     <br/>
     Bon, on va être honnête, la ville ne casse pas trois pattes à un "Donald"...<br/>
