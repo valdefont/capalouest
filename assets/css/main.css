@@ -4993,3 +4993,9 @@ padding-top: 20%;
 padding-bottom: 20%;
 
 }
+.Rot180{
+transform: rotate(180deg);
+padding-top: 10%;
+padding-bottom: 10%;
+
+}
