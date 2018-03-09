@@ -6,7 +6,7 @@ date: 2018-03-06 20:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: 
 ---
-<p>Nous voilà à LA!!
+<p>Nous voilà à LA!! <br/> 
     Ça y est, on sort les tee-shirts et les shorts puis on file vers la ville.
     <br/>
     Bon, on va être honnête, la ville ne casse pas trois pattes à un "Donald"...<br/>
@@ -41,16 +41,15 @@ tag:
     Pour terminer, on vous emmène faire un tour dans une petite salle:
     21 000 personnes pour supporter l'équipe de basket de la ville: les Lakers.
     On avait des places tout en haut, assez loin du terrain mais avec une très belle vue d'ensemble sur le 
-    jeu.
+    jeu. <br/> 
     Alors oui, on est allé voir un match de basket mais pas que... Il y a tellement à regarder en dehors 
     du match. Avant le coup d'envoi, 2 chaînes de télé sont en direct sur le terrain. Il y a les pom-pom 
     girls qui entrent en scène à chaque temps-mort, des jeux sur le terrain, des écrans géants, un 
-    orchestre de cuivres, de la musique même pendant le jeu. Un vrai spectacle !
+    orchestre de cuivres, de la musique même pendant le jeu. Un vrai spectacle ! <br/> 
     Et un match accroché où les locaux (loin au classement) ont bien failli battre l'équipe de Portland 
     (actuellement 3ème) dans une ambiance de feu !!
     On s'en est mis plein les yeux et les oreilles., une soirée mémorable !!
-       <br/>  
-    Un peu de douceur dans cette mégalopole… </p>
+  </p>
 ![I and My friends]({{site.baseurl}}/assets/img/LA/LA8.jpg)
 ![I and My friends]({{site.baseurl}}/assets/img/LA/LA9.jpg)
 ![I and My friends]({{site.baseurl}}/assets/img/LA/LA10.jpg)
@@ -60,6 +59,7 @@ tag:
 ![I and My friends]({{site.baseurl}}/assets/img/LA/LA14.jpg)
 ![I and My friends]({{site.baseurl}}/assets/img/LA/LA15.jpg)
 <img class="Rot90" src="{{site.baseurl}}/assets/img/LA/LA16.jpg" alt="">  
+<p>Un peu de douceur dans cette mégalopole… </p>
 ![I and My friends]({{site.baseurl}}/assets/img/LA/LA17.jpg)
     
 
