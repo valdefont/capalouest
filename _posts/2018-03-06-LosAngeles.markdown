@@ -58,6 +58,9 @@ tag:
 ![I and My friends]({{site.baseurl}}/assets/img/LA/LA13.jpg)
 ![I and My friends]({{site.baseurl}}/assets/img/LA/LA14.jpg)
 ![I and My friends]({{site.baseurl}}/assets/img/LA/LA15.jpg)
+
+<iframe width="480" height="360" src="{{site.baseurl}}/assets/video/lakers.mp4" frameborder="0"> </iframe>
+ 
 <img class="Rot90" src="{{site.baseurl}}/assets/img/LA/LA16.jpg" alt="">  
 <p>Un peu de douceur dans cette mégalopole… </p>
 ![I and My friends]({{site.baseurl}}/assets/img/LA/LA17.jpg)
