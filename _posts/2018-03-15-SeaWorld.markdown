@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Sea World..."
+img: SeaWorld.JPG # Add image post (optional)
+date: 2018-03-15 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>
+
+</p>
+<br/>Maintenant qu'on s'est bien reposé, il faut quand même qu'on profite un peu. On hésitait entre le zoo de San Diego qui est un des plus beaux du monde ou le Sea World,
+plus cher. On a opté pour le Sea World car toute la famille avait envie de voir des dauphins, des orques et de faire des attractions. Nous nous réjouissions à fond!!
+<br/>  
+Quand on est arrivé, on a vu que le parking était gigantesque. Et puis la dame nous dit: 40 dollars. Et là, on était dégouté. Il y avait même des gens 
+qui payaient plus cher pour être plus près de l'entrée! On est rentré et on a vu qu'il y avait des vendeurs partout: de glaces, de serviettes, 
+de pop corn et de fruits qui n'étaient pas de saison. Beurk! 
+<br/> 
+On a commencé par une attraction avec un looping et qui partait à la vitesse de la lumière. Ça a fait des sauts dans nos estomacs, ça descendait en
+ piqué de tous les côtés! 
+ <br/> <br/> 
+ Ensuite ,direction les dauphins. Youpi!! On les a vu sauter à 2 mètres de haut et on a même pu les toucher!!! C'était génial!! 
+ Mais par contre, on a été attristé par le bassin: il était petit. Et c'était comme ça pour tous les pauvres animaux.
+  On a vu une pieuvre qui ne pouvait presque pas bouger. 
+  <br/> <br/> 
+ Après, on est allé voir les orques. En fait, c'est beaucoup plus gros que ce qu'on croit! 
+ Elles ont même fait des saltos!! On était super impressioné!! On a encore vu des requins, des tortues, on a  visité l'aquarium et fait l'attraction des bouées.
+ <br/> 
+ Antoine a été le plus éclaboussé. Il était trempé des pieds à la tête!
+ <br/> 
+ A chaque attraction, il y avait une boutique. On est aussi allé voir les pingouins, et là, ça 
+ nous a encore plus attristé: ils étaient peut-être plus de 1 000 et ils étaient enfermés dans un tout petit enclos. 
+ Nous avons aussi fait un simulateur de vol et à la sortie, il y avait un long chemin qui menait jusqu'au dehors. Sur ce chemin, il y avait des bélougas, des morses, 
+ des phoques et des espèces d'énormes créatures bizarres, très moches avec des longs poils. 
+ Après on est sorti et on est parti du Sea World. Quel dommage, c'était une journée extraordinaire!!
+ <br/> <br/> 
+ Cet article a été entièrement rédigé par Gabin.
+ 
+![]({{site.baseurl}}/assets/img/SeaWorld/S1.JPg)
+![]({{site.baseurl}}/assets/img/SeaWorld/S2.JPG)  
+![]({{site.baseurl}}/assets/img/SeaWorld/S3. JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S4.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S5.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S6.JPG) 
+![]({{site.baseurl}}/assets/img/SeaWorld/S7.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S8A.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S9.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S10.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S11.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S12.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S13.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S14.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S15.JPG)
+![]({{site.baseurl}}/assets/img/SeaWorld/S16.JPG)
+
+
+

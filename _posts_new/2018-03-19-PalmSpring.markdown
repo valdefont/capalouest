@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Entre neige, cactus et palmiers..."
+img: PalmSpring.JPG # Add image post (optional)
+date: 2018-03-19 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>
+
+</p>
+
+ <br/> 
+
+
+![]({{site.baseurl}}/assets/img/SanDiego/SD1.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD2.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD3.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD4.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD5.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD6.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SanDiego/SD7.JPG" alt="">
+![]({{site.baseurl}}/assets/img/SanDiego/SD8.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD9.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SanDiego/SD10.JPG" alt="">
+![]({{site.baseurl}}/assets/img/SanDiego/SD11.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD12.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD13.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD14.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD15.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD16.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD17.JPG)
+
+
