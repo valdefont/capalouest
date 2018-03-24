@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Toujours plus au sud..."
+img: sandiego.JPG # Add image post (optional)
+date: 2018-03-16 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>
+Nous voilà tout au sud de la côte ouest.  <br/> 
+San Diego, qui d'emblée nous attire... C'est la sixième ville des USA et pourtant une ville à  taille humaine.  Tout de suite, on s'y sent bien.
+ <br/>  <br/> 
+Nous commençons par flâner dans "Balboa park", une oasis urbaine avec de magnifiques jardins, des musées, des bâtiments de style colonial, art déco.  <br/> 
+C'est le plus ancien parc paysager de la côte Pacifique.
+Nous passons notamment un agréable moment dans le "Botanic building", des serres tropicales qui regroupent 2000 variétés. 
+ <br/> 
+Il y a même des plantes carnivores... auxquelles nous avons échappé!
+</p>
+![]({{site.baseurl}}/assets/img/SanDiego/SD1.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD2.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD3.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD4.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD5.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD6.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SanDiego/SD7.JPG" alt="">
+![]({{site.baseurl}}/assets/img/SanDiego/SD8.JPG)
+<p>
+Nous nous dirigeons ensuite vers downtwn et le Gaslamp Quarter. Nous y sommes après 3/4 d'heure de marche. 
+Nous apprécions de pouvoir visiter une grande ville sans utiliser de moyen de transport.
+Il faut dire que les transports en commun (métro, bus) sont beaucoup moins développés que chez nous (ce que nous avions déjà remarqué à Los Angeles).  <br/> 
+Comme nous sommes à la  frontière Mexicaine, un repas typique s'impose!
+Cette première expérience de vrais tacos et burritos devrait rester gravée... dans la bouche des enfants :-)
+</p>
+![]({{site.baseurl}}/assets/img/SanDiego/SD8-1.jpg)
+![]({{site.baseurl}}/assets/img/SanDiego/SD8-2.jpg)
+<p>
+Nous poursuivons notre balade, digestive cette fois, en direction du "Waterfront". 
+On ne se croirait pas dans une grande ville: c'est vert, c'est apaisant. 
+Jolie vue sur la baie et le pont en forme de boomerang qui relie la péninsule  de Coronado Island au continent. C'est là que nous terminons cette journée, devant notre dernier coucher de soleil sur le Pacifique... avant quelques temps.
+ <br/><br/> 
+</p>
+
+ <br/> 
+![]({{site.baseurl}}/assets/img/SanDiego/SD9.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SanDiego/SD10.JPG" alt="">
+![]({{site.baseurl}}/assets/img/SanDiego/SD11.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD12.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD13.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD14.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD15.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD16.JPG)
+![]({{site.baseurl}}/assets/img/SanDiego/SD17.JPG)
+<p>
+Dans le comté de San Diego, impossible de dormir en dehors des "RV parks".
+Nous en profitons pour faire notre première expérience "Boondockers". 
+C'est un site sur lequel des gens invitent des voyageurs à passer la nuit devant chez eux. 
+Nous passons 2 nuits chez Eve et son mari. Très accueillants, c'est l'occasion de partager nos expériences et de bénéficier de leurs conseils. Et cerise sur le gâteau, ils nous invitent à venir cueillir des oranges et citrons de leur verger. Humm, déguster de délicieux fruits à peine cueillis, en plein mois de mars!
+
+<p>
