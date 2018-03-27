@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Rien ne va plus!!"
+img: LasVegas.JPG # Add image post (optional)
+date: 2018-03-23 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>
+Combien de fois s’est-on dit « Ils sont fous ces américains !!! » depuis le début du voyage, eu égard au gigantisme (au sens US du mot!), à la démesure et à la folie dont ils font preuve pour certaines choses.
+Un soir, de nuit, après 3 heures de route dans le désert et dans une réserve indienne, 
+sans quasi aucune habitation, mais avec des paysages grandioses une nouvelle fois, 
+nous apercevons des lueurs au loin dans le ciel. Pourtant, nous sommes encore à 100 km de Las Vegas… <br/> 
+Puis nous distinguons réellement des lumières très puissantes. En nous rapprochant, quelques 40 km plus loin, 
+nous arrivons à une station d’autoroute qui marque l’entrée dans l’état du Nevada. Enfin, station d’autoroute…. 
+Des écrans lumineux, 3 énormes casinos, des restaurants, un parc d’attraction… ah, et quand même des pompes à essence !! <br/> 
+Le ton est donné. <br/>  <br/> 
+
+Las Vegas : nous voilà dans ce paradis (pour certains) artificiel, poussé au milieu de nulle part. 
+Un étalage de luxe, de strass et  de paillettes, l’extravagance jusqu’au ridicule. Bref, ça vaut le coup d’oeil même si ce n’est pas vraiment notre trip !
+ <br/>  <br/> 
+
+Avant-hier, nous sommes allés à Downtown (centre ville). Il y avait des gens bizarres de partout et peu habillés .
+ <br/>  <br/> 
+Le lendemain nous sommes allés au Strip (grande rue de 5  kilomètres). Nous avons vu la fausse tour Eiffel . 
+Après  nous sommes allés voir la statue de la liberté. Nous voulions aller dans un building pour voir les lumières de la ville 
+mais il fallait avoir 21 ans et là on était dégouté !!! <br/> 
+Puis nous sommes allés à la boutique M&M’S. Les parent on été gentils, ils nous en ont acheté. <br/> 
+Mais on leur en donne !!! <br/> 
+Après on est allé voir le Sphynx. Ensuite, nous voulions voir un spectacle mais ça ne commençait pas et nous  gelions dans le froid.  <br/> 
+C’est normal dans le désert il fait très très chaud le jour mais la nuit il fait très très froid.   <br/> 
+C’est là qu’il faut penser qu’on a de la chance de ne pas être des SDF. Gabin a adoré le Strip. Les parents, eux de leur côté, ils ont préféré le Strip que Downtown.
+ <br/>  
+De mon côté jai tout aimé. <br/>  <br/> 
+J’espère que  cet article vous a plu. 						  
+
+Première partie, maman jusqu’à «notre trip », deuxième partie Antoine.
+</p>
+
+ <br/> 
+
+
+![]({{site.baseurl}}/assets/img/PalmSprings/P1.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P2.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P3.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P4.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/PalmSprings/P5.JPG" alt="">
+![]({{site.baseurl}}/assets/img/PalmSprings/P6.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P7.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P8.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P9.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P10.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P11.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P12.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P13.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P14.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/PalmSprings/P15.JPG" alt="">
+![]({{site.baseurl}}/assets/img/PalmSprings/P16.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P17.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P18.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P19.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P20.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P21.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P22.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P23.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P24.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P25.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P26.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P27.JPG)
+![]({{site.baseurl}}/assets/img/PalmSprings/P28.JPG)
+<img class="Rot90" src="{{site.baseurl}}/assets/img/PalmSprings/P29.JPG" alt="">
+
