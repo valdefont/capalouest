@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Rien ne va plus!!"
+title: "Rien ne va plus..."
 img: LasVegas.JPG # Add image post (optional)
 date: 2018-03-23 20:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: 
 ---
 <p>
-Combien de fois s’est-on dit « Ils sont fous ces américains !!! » depuis le début du voyage, eu égard au gigantisme (au sens US du mot!), à la démesure
+Combien de fois s’est-on dit « Ils sont fous ces américains !!! » depuis le début du voyage, eu égard au gigantisme (version US!), à la démesure
  et à la folie dont ils font preuve pour certaines choses.
+ <br/>  <br/> 
 Un soir, de nuit, après 3 heures de route dans le désert et dans une réserve indienne, 
 sans quasi aucune habitation, mais avec des paysages grandioses une nouvelle fois, 
 nous apercevons des lueurs au loin dans le ciel. Pourtant, nous sommes encore à 100 km de Las Vegas… <br/> 
@@ -22,15 +23,19 @@ Un étalage de luxe, de strass et  de paillettes, l’extravagance jusqu’au ri
  <br/>  <br/> 
 
 Avant-hier, nous sommes allés à Downtown (centre ville). Il y avait des gens bizarres de partout et peu habillés .
- <br/>  <br/> 
+ <br/> 
 Le lendemain nous sommes allés au Strip (grande rue de 5  kilomètres). Nous avons vu la fausse tour Eiffel . 
 Après  nous sommes allés voir la statue de la liberté. Nous voulions aller dans un building pour voir les lumières de la ville 
 mais il fallait avoir 21 ans et là on était dégouté !!! <br/> 
-Puis nous sommes allés à la boutique M&M’S. Les parent on été gentils, ils nous en ont acheté. <br/> 
+Puis nous sommes allés à la boutique M&M’S. Les parents on été gentils, ils nous en ont acheté. <br/> 
 Mais on leur en donne !!! <br/> 
-Après on est allé voir le Sphynx. Ensuite, nous voulions voir un spectacle mais ça ne commençait pas et nous  gelions dans le froid.  <br/> 
+Après on est allé voir le Sphynx. 
+ <br/>  <br/> 
+Ensuite, nous voulions voir un spectacle mais ça ne commençait pas et nous  gelions dans le froid.  <br/> 
 C’est normal dans le désert il fait très très chaud le jour mais la nuit il fait très très froid.   <br/> 
-C’est là qu’il faut penser qu’on a de la chance de ne pas être des SDF. Gabin a adoré le Strip. Les parents, eux de leur côté, ils ont préféré le Strip que Downtown.
+C’est là qu’il faut penser qu’on a de la chance de ne pas être des SDF. 
+ <br/>  <br/> 
+Gabin a adoré le Strip. Les parents, eux de leur côté, ils ont préféré le Strip que Downtown.
  <br/>  
 De mon côté jai tout aimé. <br/>  <br/> 
 J’espère que  cet article vous a plu. 						  
@@ -44,9 +49,11 @@ Première partie, maman jusqu’à «notre trip », deuxième partie Antoine.
 ![]({{site.baseurl}}/assets/img/LasVegas/P1.JPG)
 ![]({{site.baseurl}}/assets/img/LasVegas/P2.JPG)
 ![]({{site.baseurl}}/assets/img/LasVegas/P3.JPG)
+<p>Trump est un pirate...</p>
 ![]({{site.baseurl}}/assets/img/LasVegas/P4.JPG)
 ![]({{site.baseurl}}/assets/img/LasVegas/P5.JPG)
 ![]({{site.baseurl}}/assets/img/LasVegas/P6.JPG)
+<p>Mais jusqu'où iront-ils?</p>
 ![]({{site.baseurl}}/assets/img/LasVegas/P7.JPG)
 ![]({{site.baseurl}}/assets/img/LasVegas/P8.JPG)
 ![]({{site.baseurl}}/assets/img/LasVegas/P9.JPG)
