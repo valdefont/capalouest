@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Vertige..."
+img: Zion.JPG # Add image post (optional)
+date: 2018-03-26 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>
+Nous quittons la folie de Vegas et commençons notre tour des parcs par Zion, l'un  des parcs les plus visités aux USA.
+ <br/>  <br/> 
+Nous pensions quitter quelque peu la civilisation, mais nous n'avions pas pensé aux congés scolaires... Une ribambelle de voitures nous attend à l'entrée du parc.
+  <br/> 
+Après une petite heure de queue pour attraper une navette (les vehicules particuliers sont interdits sur le site)
+, nous rentrons enfin dans le vif du sujet et commençons la remontée du canyon. <br/>  
+Nous sommes frappés par ces immenses monolithes de grès, dont la couleur rougeoyante est dûe à l'oxyde de fer.   <br/>  
+Majestueux, ils surplombent la rivière tout au long du canyon et font la joie des amateurs de varape.
+ <br/>  <br/> 
+Ces paysages nous donnent de l'appetit et nous commençons par une petite rando de 8 kms. La montée au bord du précipice est magnifique, 
+le seul bémol étant la file interminable de marcheurs à nos côtés.<br/> 
+ <br/>
+En arrivant en haut, la vue est impressionnante, l'effort en valait la peine. 
+ <br/>
+La journée se termine par une balade au fond du canyon, le long de la rivière, l'occasion pour les enfants de faire des ricochets 
+et de taper la causette avec les nombreux écureuils (pas farouches pour un sou)...
+ <br/> <br/>
+Le lendemain, après une nuit bien fraîche, nous entreprenons une marche jusqu'aux cascades (l'hiver a dû être sec car seul un petit filet d'eau nous y attend..).
+Les parois verticales sont encore plus impressionnantes que la veille, à en donner le tournis.
+ <br/> <br/>
+ Zion is beautiful !
+
+
+
+</p>
+
+ <br/> 
+
+
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Zion/P1.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Zion/P2.JPG)
+
+![]({{site.baseurl}}/assets/img/Zion/P4.JPG)
+![]({{site.baseurl}}/assets/img/Zion/P6.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Zion/P8.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Zion/P10.JPG)
+<img class="Rot90" src="{{site.baseurl}}/assets/img/Zion/P12.JPG" alt="">
+
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Zion/P14.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Zion/P15.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Zion/P16.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Zion/P17.JPG)
+![]({{site.baseurl}}/assets/img/Zion/P18.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Zion/P19.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Zion/P20.JPG)
+![]({{site.baseurl}}/assets/img/Zion/P21.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Zion/P22.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Zion/P23.JPG" alt="">
+
+
+<p>Pas mal l'aire de pique-nique, non?</p>
+
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Zion/P25.JPG" alt="">
+<p>Un seul mot : vertigineux !</p>
+![]({{site.baseurl}}/assets/img/Zion/P26.JPG)
+
+
+
+
+
