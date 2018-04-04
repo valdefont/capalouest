@@ -1,0 +1,76 @@
+---
+layout: post
+title: "Bryce is nice..."
+img: Bryce2.JPG # Add image post (optional)
+date: 2018-03-29 20:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>
+Bryce Canyon... <br/>
+Je ne sais pas si les superlatifs vont être à la hauteur de ce site exceptionnel..
+<br/><br/>
+A l'entrée du parc, on ne voit rien de spécial, on ne se doute de rien.<br/>
+Et puis, on se rend au départ de notre première rando et là... c'est magique! <br/>
+Un amphitéâtre composé de centaines de pitons, d'aiguilles de couleurs rouge, orange, rose, se dresse devant nous.
+Au loin, les plaines de l'Utah et d'autres canyons complètent ce décor de rêve.
+<br/><br/>
+Nous pourrions rester longtemps à contempler ce paysage, vu du dessus. 
+Mais nous n'avons qu'une envie: descendre au coeur de ce lieu, toucher, ressentir ces rochers presques irréels. <br/>
+Qu'il est compliqué d'avancer au cours de cette balade: chaque virage, petite montée ou détour
+nous offre un nouveau spectacle toujours différent, toujours étonnant, bluffant! <br/>Nous voudrions tout photographier, tout garder de cet endroit. <br/>
+Séquence émotions...
+<br/><br/>
+Pas pressés de remonter à l'extrémité de l'amphitéâtre, nous entamons tout de même l'ascension pour rejoindre le haut de la falaise. 
+Arrivés à Bryce Point, ce vetigineux promontoire nous offre une vue panoramique sue l'ensemble du canyon.
+Le temps de longer la falaise pour revenir au point de départ et nous avons déjà en tête le futur lever de soleil du lendemain.
+<br/><br/>
+Un peu dur de mettre le nez en dehors de la couette quand il a gelé sur l'INTERIEUR des vitres du "RV" (!).. mais que c'est bon d'assister à ce "sunrise"! 
+Les couleurs, les nuances sont différentes et la lumière du petit matin tellement jolie.<br/>
+Après un bon p'tit déj, nous repartons explorer ce site à pied avant de parcourir la route qui mène au bout du parc pour découvrir d'autres points de vue.
+<br/><br/>
+Nous repartons émerveillés.<br/>
+A Bryce, la nature a réalisé un chef-d'oeuvre... 
+
+</p>
+
+![]({{site.baseurl}}/assets/img/Bryce/P2.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P3.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P4.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P5.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Bryce/P6.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Bryce/P7.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Bryce/P8.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Bryce/P9.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Bryce/P10.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Bryce/P12.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Bryce/P13.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Bryce/P14.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P15.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Bryce/P16.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Bryce/P17.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P18.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P19.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P20.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P21.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P22.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P23.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P24.JPG)
+
+![]({{site.baseurl}}/assets/img/Bryce/P28.JPG)
+
+<p> Petit texte de Gabin:  <br/>
+Nous étions en train de manger et maman nous dit: "regardez, il y a des biches sur le parking!" <br/>
+ Avec Antoine, nous sommes allés, en pyjama, essayer de les approcher.
+ Elles n'étaient pas du tout farouches.  <br/>
+ Il y avait d'autres personnes mais nous étions les plus près.  <br/>
+ Chaque fois que nous faisions craquer une brindille ou que nous chuchotions un peu fort, les biches nous regardaient. <br/>
+ C'est comme ça que nous avons pu les prendre en photo.
+ </p>
+![]({{site.baseurl}}/assets/img/Bryce/P29.JPG)
+![]({{site.baseurl}}/assets/img/Bryce/P30.JPG)
+
+
+
+
+
