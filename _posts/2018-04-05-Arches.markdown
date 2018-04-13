@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Arches 2000"
+img: Arches.JPG # Add image post (optional)
+date: 2018-04-05 00:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p>
+Après une rapide traversée du parc Capitol Reef, nous arrivons à Moab, petite bourgade de cinq mille âmes,  
+idéalement placée au bord du fleuve Colorado, mais surtout porte d'entrée de deux parcs majeurs de l'Ouest américain, 
+Arches et Canyonlands.
+ <br/> Moab est aussi le terrain de jeu favori des vététistes, kayakistes et randonneurs en tout genre. 
+Mais c'est également  celui des possesseurs de quads et jeeps , qui partent batifoler égoistement dans les fabuleux canyons de la région, en polluant 
+avec fracas nos randonnées. 
+<br/> <br/>
+On se sent cependant plutôt  bien dans cette ville en pleine extension, et on y reste une petite semaine. 
+Les enfants auront même l'occasion de s'essayer au baseball avec leurs homologues locaux.
+ <br/> <br/>
+Nous passons deux jours à Arches, parc créé par les mormons après avoir chassé les derniers indiens au 19ème siècle. 
+Sur les deux mille arches répertoriées, nous n'en verrons que quelques dizaines, mais le spectacle en vaut vraiment la peine. 
+Ces dômes et falaises de grès, marqués par l'érosion laissent apparaître au détour d'un sentier des percées magnifiques, où l'on entrevoit parfois, 
+cerise sur le gâteau, les sommets enneigés des "La Sal Mountains".
+ <br/> <br/> <br/>
+Pour notre dernière balade à  Arches nous sommes allés voir des empreintes de dinosaures !  <br/> 
+Antoine et moi, nous étions très excités à l'idée d'en voir. Sur la route pour y aller, on a observé des gens qui escaladaient les falaises. 
+Il y avait des débutants et des professionnels. Nous avons vu aussi des dessins que les indiens avaient laissés. <br/> <br/> 
+Pendant la balade il y avait plus de traces d'indiens que de traces de dinosaures.  <br/>
+À beaucoup d'endroits, des gens avaient vandalisé les traces. Nous avons continué le chemin jusqu'à ce qu'on arrive à une grande clairière 
+et qu'on ne sache plus où aller. Au bout de 20 minutes, nous avons réussi à retrouver le sentier qui menait à une arche.  <br/> 
+Nous avons pu aller dessous. La pluie menaçait mais nous y avons échappé de justesse!!
+ <br/> <br/>
+Gabin & Co.
+</p>
+
+![]({{site.baseurl}}/assets/img/Arches/P1.JPG)
+![]({{site.baseurl}}/assets/img/Arches/P2.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Arches/P3.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Arches/P4.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Arches/P5.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Arches/P6.JPG)
+![]({{site.baseurl}}/assets/img/Arches/P7.JPG)
+![]({{site.baseurl}}/assets/img/Arches/P9.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Arches/P10.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Arches/P11.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Arches/P12.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Arches/P14.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Arches/P15.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Arches/P16.JPG)
+![]({{site.baseurl}}/assets/img/Arches/P17.JPG)
+![]({{site.baseurl}}/assets/img/Arches/P18.JPG)
+![]({{site.baseurl}}/assets/img/Arches/P19.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Arches/P20.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Arches/P21.JPG)
+![]({{site.baseurl}}/assets/img/Arches/P22.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Arches/P23.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Arches/P24.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Arches/P25.JPG" alt="">
+
