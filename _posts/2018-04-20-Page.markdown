@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Antilopes, scorpions, etc..."
+img: Page.JPG # Add image post (optional)
+date: 2018-04-20 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+
+Étape qui n'était pas prévue dans notre circuit initial mais nous avons un peu de temps et sûrement envie de voir des p’tites bêtes !!<br/><br/>
+Nous nous installons quelques jours à Page non loin de l'immense Lake Powell. Ce lac artificiel, l'un des plus grands du monde (il a fallu 17 ans pour le remplir !!!), 
+a vu le jour après la construction du barrage de Glen Canyon, destiné à réguler le flot du Clorado et à alimenter en eau
+une bonne partie de la Californie et de l'Arizona. 
+<br/>
+La petite ville de Page, même  si elle est agréable, ne présente pas d'intérêt particulier mais elle est idéalement située entre le Lake Powell et « Antelope Canyon ». <br/><br/>
+
+Nous commençons par aller admirer le lac et surtout le Colorado depuis un point de vue spectaculaire, « Horseshoe Bend » qui nous offre une vue du fleuve en forme de fer à cheval.
+Déconseillé aux personnes souffrant de vertige et à celles qui craignent pour leur mise en plis, vu les rafales de vent du jour!!
+<br/><br/>
+Nous poursuivons notre découverte des environs de Page.<br/>
+Comme vous l’aurez sûrement compris, d’antilopes nous ne verrons point… nous partons visiter l’un des deux spectaculaires sites d’Antelope Canyon 
+situé sur une réserve Navajo. <br/>
+La pluie et le vent ont modelé les parois de gré rouge et créé ce magnifique canyon très étroit. 
+On y accède via une succession d’échelles. On serpente à l’intérieur… malheureusement pas à notre rythme… 
+La visite est obligatoirement guidée et les groupes se suivent en rangs serrés. 
+Les puits de lumière qui pénètrent au fond de la gorge lorsque le soleil est au zénith sont toutefois splendides, on a l'impression d'entrer dans une cathédrale.
+ Peut-être sommes nous quelque peu égoïstes… nous aimerions en profiter sans avoir l’impression d’être des moutons!!!
+ <br/><br/>
+Nous partons ensuite au bord du Lake Powell. Nous nous posons sur des rochers pour un pique nique, à quelques centaines de mètres de la marina, tranquilles.
+Enfin... jusqu’à ce qu’Antoine qui jouait dans les rochers, hurle tout à coup. <br/>
+Il nous montre son doigt, la douleur a l’air terrible mais on connaît la tolérance d’Antoine à la douleur… 
+<br/>
+Cependant, très vite, il nous dit qu’il à mal dans le bras et à l’aisselle. Jordi cherche à l’endroit où il jouait et trouve un scorpion !!!  Alerte rouge !!! <br/>
+Jordi a la présence d’esprit de tuer la bête <s>pour avoir un souvenir</s>  pour pouvoir le montrer et vérifier sa dangerosité.
+<br/>
+On court au RV, on roule presque à la vitesse autorisée, direction l’hôpital de Page à 20 minutes (très longues minutes !!). 
+<br/>
+Finalement, ce scorpion n’est pas dangereux, à part pour les très jeunes enfants.<br/>
+Après quelques heures passées dans une chambre, un bon petit remède de cheval anti – douleur,  on peut repartir, rassurés ! 
+<br/>
+Reste à surveiller notre Antoine pendant les 24 heures suivantes !
+<br/><br/>
+Ainsi s’achèvent nos quelques jours à Page.<br/>
+Le lendemain, on a fait classe dans le RV: moins dangereux !!!!
+
+
+
+</p>
+
+![]({{site.baseurl}}/assets/img/Page/P2.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Page/P3.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Page/P4.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Page/P5.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Page/P6.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Page/P7.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Page/P9.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Page/P10.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Page/P11.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Page/P12.JPG)
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Page/P13.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Page/P14.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Page/P15.JPG" alt="">
+<img class="Rot90" src="{{site.baseurl}}/assets/img/Page/P16.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Page/P17.JPG)
+
+
