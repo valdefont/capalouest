@@ -1,0 +1,99 @@
+---
+layout: post
+title: "Yo, c'est beau..."
+img: Yosemite.JPG # Add image post (optional)
+date: 2018-05-04 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+
+
+<br/> 
+Sur la route entre Las Vegas (où nous avons juste fait étape cette fois-ci) et Yosemite, nous avons vu le paysage changer.<br/> 
+Quel bonheur, après un gros mois de roches, falaises, aiguilles et cailloux en tous genre (mais des beaux cailloux quand même 😉), de retrouver la verdure!!<br/> 
+Ah, des arbres, de l'herbe, des vaches bien en chair qui paîssent dans des prairies, ça nous manquait quand même!<br/> 
+Alors oui, le détour est immense (600 miles), pour visiter ce parc national mais on n'est pas à quelques heures de "Robert" près!!
+<br/> <br/> 
+Avant d'arriver à Yosemite, on procède à un rangement de nourriture dans le RV: pas question de laisser de vivres dans la soute,
+ ni visibles à l'intérieur du camping-car sous peine de retrouver un ours dans notre modeste cuisine !! 
+ Un p'tit peu inquiétant... mais bon c'est le parc le plus visité aux USA, ça ne doit pas être si dangereux! <br/> 
+ En tout cas, les enfants ont très envie de voir des ours... <br/> 
+En ce qui me concerne, je préfère les voir de pas trop près (si possible depuis le RV ;-) et garder le bon souvenir de l'ourson "Bouba" de mon enfance!! <br/> 
+À ce stade, je pense que vous avez démasqué l'auteur de ce post...
+<br/> <br/> 
+Nous découvrons ce parc par "Wawona". Nous y faisons une petite balade, accompagnés d'un autochtone rencontré au départ, devant le panneau indiquant de se méfier des pumas...
+ Oups, des pumas, des ours... hum hum, trop bien!!<br/> 
+En fait notre pseudo guide nous rassure, en 30 ans il n'a jamais vu de puma. Des ours, oui souvent mais il nous invite à nous méfier plutôt des serpents!<br/> 
+ Nous ne verrons aucun des trois pendant cette rando, juste un joli sentier et une belle cascade.
+<br/> <br/> 
+Après ce petit hors d'oeuvre, nous poursuivons notre route jusqu'à la " Yosemite Valley", où nous allons rester 5 jours.<br/> 
+D'emblée, le décor nous plaît: d'immenses pins, des gigantesques blocs de granit, de l'herbe et de l'eau! 
+Après tous les cours d'eau à sec que nous avons vus, on a l'impression de redécouvrir cet élément!
+ Et le printemps est la saison idéale pour apprécier le débit des rivières et surtout des cascades.
+<br/> <br/> 
+Notre première rando doit nous permettre de grimper de la vallée à "Glacier point", joli promontoire rocheux, quelques 8km et 1000m de dénivelé plus haut.
+ De là haut, belle vue sur le "half dôme", les sommets enneigés, des cascades.<br/> 
+  Mais finalement, ces quelques kilomètres ont été vite avalés et plutôt que de revenir sur nos pas, nous optons pour un autre itinéraire
+   (en accord avec les enfants!) qui nous permettra de faire une boucle... Il nous reste alors 13km, de descente. Enfin, ça c'est ce qu'on croyait....<br/> 
+Nous entamons cette descente, croisons des gens qui ont vu des ours 5 minutes avant de nous croiser, nous!! <br/> 
+Les enfants redoublent d'attention et scrutent les alentours. Ils questionnent également (in english, of course!), 
+tous les gens que nous rencontrons pour savoir s'ils en ont vu...<br/> 
+Ensuite, le sentier remonte (Oups, pas prévu !)...<br/> 
+Puis le sentier que nous pensions prendre est fermé.... Ça rallonge un peu...<br/> 
+Mais nous arrivons, du coup, au sommet des "Nevada Falls". Chutes impressionnantes, magnifique!<br/> 
+Notre sentier descend ensuite le long de la cascade mais entre roches, cailloux et escaliers (600 marches),
+ il est très éprouvant, surtout avec ce que nous avons déjà dans les jambes!<br/> 
+Bref, nous bouclons nos 23km, satisfaits mais bien fatigués.<br/> 
+En fait, nous avons fait 3 balades en une; cool on a 2 jours de repos!!!!!😁
+<br/> <br/> 
+
+Les jours suivants se poursuivent entre repos et randos plus raisonnables (!), entre 8 et 15 km.<br/> 
+Nous profitons de ces superbes paysages alpins, entre forêts de pins, prairies verdoyantes et sequoias géants,
+ entre torrents et chutes impressionantes (740m pour les "Yosemite falls", les cinquièmes plus hautes du monde).
+<br/> <br/> <br/> 
+Yosemite...
+Spectaculaire, reposant, inspirant...
+Encore un parc qui nous voit repartir des étoiles plein les yeux...
+
+
+
+
+
+</p>
+![]({{site.baseurl}}/assets/img/Yosemite/P1.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P2.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P3.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P4.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Yosemite/P5.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Yosemite/P6.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P7.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P8.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P9.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P10.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P11.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P12.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P13.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Yosemite/P14.JPG" alt="">
+[]({{site.baseurl}}/assets/img/Yosemite/P15.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P16.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Yosemite/P17.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Yosemite/P18.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Yosemite/P19.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P20.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P21.JPG)<br/><br/><br/>
+<img class="Rot90" src="{{site.baseurl}}/assets/img/Yosemite/P22.JPG" alt="">
+
+![]({{site.baseurl}}/assets/img/Yosemite/P23.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P24.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P25.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P26.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P27.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P28.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P29.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P30.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P31.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Yosemite/P32.JPG)<br/><br/><br/>
+
+
+
