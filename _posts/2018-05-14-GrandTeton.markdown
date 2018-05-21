@@ -9,7 +9,7 @@ tag:
 <p> 
 
 Grand teton ! Le nom plaisait tellement aux enfants 
-que nous ne pouvions ne pas nous y arrêter. Il semblerait que ce soit les Canadiens
+que nous ne pouvions pas ne pas nous y arrêter. Il semblerait que ce soit les Canadiens
 qui aient affublé cette chaîne de montagnes de ce patronyme.
 <br/><br/>
 Petit appendice du parc de Yellowstone, et beaucoup moins connu que ce dernier, 

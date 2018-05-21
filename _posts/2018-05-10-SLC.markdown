@@ -59,7 +59,7 @@ Post entièrement rédigé par Antoine et Gabin.
 ![]({{site.baseurl}}/assets/img/SLC/P13.JPG)<br/><br/><br/>
 <img class="Rot270" src="{{site.baseurl}}/assets/img/SLC/P14.JPG" alt="">
 []({{site.baseurl}}/assets/img/SLC/P15.JPG)<br/><br/><br/>
-<img class="Rot270" src="{{site.baseurl}}/assets/img/SLC/P16.JPG" alt="">
+<img class="Rot90" src="{{site.baseurl}}/assets/img/SLC/P16.JPG" alt="">
 <img class="Rot270" src="{{site.baseurl}}/assets/img/SLC/P17.JPG" alt="">
 ![]({{site.baseurl}}/assets/img/SLC/P18.JPG)<br/><br/><br/>
 ![]({{site.baseurl}}/assets/img/SLC/P19.JPG)<br/><br/><br/>
