@@ -1,0 +1,73 @@
+---
+layout: post
+title: "La ville du lac salé..."
+img: SLC.JPG # Add image post (optional)
+date: 2018-05-10 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+
+
+12 heures! Non! C'est pas possible!😭<br/>
+Et bien si !<br/>
+Pour aller à Salt Lake City !<br/>
+Finalement, la ville ne vaut pas le coup. <br/>
+Tout ça pour ça ! Sauf pour le musée des dinosaures qui est super. 
+On commence par un tour dans le musée avec plein de squelettes d'énormes
+ dinosaures. On a cru que c'était un Diplodocus mais non.<br/>
+Il y a aussi un endroit pour jouer avec de l'eau et du sable mouillé.
+<br/><br/>
+Et on finit par un film sur les prédateurs: trop cool. 
+Il montre une mante religieuse en train dévorer une sauterelle. 
+Slurp, cric, crac, croc(son compris). Beurk! 
+Puis, une grosse langue les attrape tous les deux! 
+Il y a aussi un guépard qui est en train de rattraper un bébé gnou 
+et se rate au dernier moment. Une panthère rusée essaie à trois reprises
+d' attraper une gazelle et la traîne par le cou mais elle s'échappe!
+ <br/>
+Super film et super visite. Super musée!
+<br/><br/>
+Ensuite, on est allé chez des boondockers
+( des gens qui accueillent les RV devant chez eux) 
+et on est monté dans une remorque.<br/>
+ Pourquoi? Pour nourrir les chèvres et les cochons. Beurk! 
+ Ils nous léchaient les bottes et nous salissaient les 
+ mains avec leurs groins. Re-Beurk!<br/>
+  Mais c'était super quand même.
+   On était les apprentis fermiers. 
+   Les chèvres prenaient leurs biberons jusqu' à la dernière goutte.
+   <br/> 
+   On est aussi allé chez des autres boondockers qui nous ont laissé
+    faire du trampoline et  nous ont donné des gâteaux.
+
+<br/><br/>
+Post entièrement rédigé par Antoine et Gabin.
+
+</p>
+![]({{site.baseurl}}/assets/img/SLC/P2.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P3.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P4.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P5.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P6.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P7.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P8.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P9.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P10.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P11.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P12.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P13.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SLC/P14.JPG" alt="">
+[]({{site.baseurl}}/assets/img/SLC/P15.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SLC/P16.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SLC/P17.JPG" alt="">
+![]({{site.baseurl}}/assets/img/SLC/P18.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/SLC/P19.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SLC/P20.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/SLC/P1.JPG" alt="">
+
+
+
+
+
+
