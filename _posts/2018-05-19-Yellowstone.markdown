@@ -45,7 +45,7 @@ mais pour admirer ce colosse et pour les photos, nous restons quelques minutes.
 Des gens passaient à moins d'un mètre! 
 Ils ont eu de la chance de s'en sortir vivants car nous avions vu une vidéo 
 où un bison balançait un homme dans un arbre. <br/>
-Ils étaient mille dans le parc, commes les élans de Grand canyon 
+Ils étaient mille dans le parc, comme les élans de Grand canyon 
 mais en plus gros. Nous aimons tous les bisons mais on en a tous un peu peur
  tellement ils sont gros et imposants!!
  <br/><br/>
@@ -61,12 +61,14 @@ Alors que nous roulions tranquillement sous la grèle, d'un coup, papa dit:
 Vite fait bien fait, nous prenons nos cliques et nos claques pour aller le voir. 
 On était tous excités et contents!<br/>
 Une minute après, nous avons vu un autre ours noir! C'était une maman ourse. 
-Elle était à 20 m!  Ouhlala! Heureusement, il y avait un étang entre nous et elle. 
+Elle était à 20 m!  Ouhlala! Heureusement, il y avait un étang entre nous et elle.
+ 
 Au bout d' une bonne heure, trois bébés descendent de l'arbre! Trop choux!
 <br/>
  Ils jouent et un bébé tombe d'une branche! Il y avait beaucoup de gens.
  <br/>
- Il y avait quasiment que des pros de la photo !!! Mais à un moment donné, les ours sont partis, les bonnes choses ont une fin. 🐻
+ Il y avait quasiment que des pros de la photo !!! Mais à un moment donné, 
+ les ours sont partis, les bonnes choses ont une fin. 🐻
 <br/><br/>
 Dans les jours d'après, nous en avons encore vu 8! En tout, ça fait 12!
  Des ours bruns, et des grizzlys. C'était génial!!
