@@ -1,0 +1,45 @@
+---
+layout: post
+title: "A cheval..."
+img: Glacier.JPG # Add image post (optional)
+date: 2018-05-24 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+
+Eh non, nous n'avons pas encore troqué notre "Robert" pour quelque bourricot... !!
+"Glacier National Park", dernier parc américain de notre road-trip, 
+est en fait également situé sur le territoire Canadien....
+<br/><br/>
+Avant cela, nous nous posons quelques jours au bord du lac Missouri. 
+Cet endroit paisible se révèle être un formidable terrain de jeu pour les enfants. 
+<br/>
+Ils sont ravis d'explorer les abords du lac, de grimper, d'escalader.... <br/>
+Petits moments d'autonomie appréciés de tous... nous vivons depuis plus de 3 mois tous ensemble, quasiment 24h/24...!!!
+<br/><br/>
+Puis, nous poursuivons donc notre périple jusqu'au parc Glacier. <br/>
+Celui-ci  n'est en fait qu'une petite étape dans notre remontée vers le nord, 
+d'autant plus qu'il est encore en grande partie enneigé, nous ne pouvons 
+le découvrir que très partiellement.<br/>
+Qu'importe, cette courte halte nous laisse entrevoir un univers sauvage, 
+des lacs couleur émeraude caractéristique de la présence d'un ancien glacier. 
+Et cerise supplémentaire sur notre gâteau déjà bien garni, nous croisons 
+la route d'une maman ourse noire et ses 3 petits!
+<br/><br/>
+Voilà, bye bye USA pour quelques temps..
+
+
+</p>
+![]({{site.baseurl}}/assets/img/Glacier/P1.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Glacier/P2.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Glacier/P3.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Glacier/P4.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Glacier/P5.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Glacier/P6.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Glacier/P7.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Glacier/P8.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Glacier/P9.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Glacier/P10.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Glacier/P11.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Glacier/P12.JPG)<br/><br/><br/>
