@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Camaïeux..."
+img: Banff.JPG # Add image post (optional)
+date: 2018-06-01 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+Quand  nous sommes arrivés à Banff vendredi, nous commençons par 
+la balade du mont Sulphur. En tout, la balade faisait 12 km et 700 mètres 
+de dénivelé. Nous pouvions prendre le téléphérique mais nous voulions marcher. 
+<br/>
+Quand nous sommes arrivés en haut il y avait des bébés chèvres 
+et aussi des adultes. À côté il y avait un bâtiment très joli: 
+dedans il y avait une sorte de musée sympathique. 
+<br/>
+En sortant, nous avons vu une marmotte, cool!!.
+<br/><br/>
+Le dimanche matin nous sommes allés  nous balader  près de la rivière de Banff. <br/>
+Après,  nous sommes allés à une aire de jeux. 
+Avec Gabin, on est allé voir un match de football. 
+Après, les parents sont arrivés.
+On a dit au parents: "Dernier but et après on part !"
+Il y en a un qui a  marqué!!! A côté, il y avait un match de baseball.
+<br/><br/>
+L' après-midi nous sommes allés acheter des lunettes. <br/>
+Celles de Gabin ont des gugusses dessus et sur les miennes, 
+il y a  le drapeau  canadien.
+<br/><br/>
+Après, on est  allé manger une gaufre, slurp!!!!!
+Le lendemain matin, nous sommes allés à  un bassin d'eau naturelle, 
+il était à trente neuf degrés, 😲trop cool!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+L' après midi, on est allé au lac Minnewanka. 
+Nous avons vu un ours empaillé 😱. Ses griffes  étaient énormes😨.
+<br/><br/>
+Le soir nous sommes allés au  restaurant, c'était trop bon. 
+Les parents ont mangé leur meilleur burger de leur  vie et nous aussi 🍟🍔. 
+<br/>
+Le matin, nous avons fait une balade très sympathique, nous marchions
+ sur une passerelle au dessus de l'eau. Après, nous sommes passés 
+ sous une grotte pour aller voir une chute. À la fin, il y avait des petits 
+ bassins. 
+ <br/><br/>
+ Le  jour d'après, nous sommes allés au lac Louise. 
+ C'était  d'un bleu turquoise  magnifique🤣. Dix minutes après, 
+ nous avions déja commencé une balade .
+En haut, il y avait des chutes et  aussi  un bar superbe.
+ <br/><br/> <br/><br/>
+ 
+ Ce post a été entièrement rédigé par Antoine.
+
+</p>
+![]({{site.baseurl}}/assets/img/Banff/P1.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Banff/P2.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Banff/P3.JPG)<br/><br/><br/>
+<img class="Rot90" src="{{site.baseurl}}/assets/img/Banff/P4.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Banff/P5.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Banff/P6.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Banff/P7.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Banff/P8.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Banff/P9.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Banff/P10.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Banff/P11.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Banff/P12.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Banff/P13.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Banff/P14.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Banff/P15.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Banff/P16.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Banff/P17.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Banff/P18.JPG" alt="">
+<p>Petite dédicace ! </p>
+![]({{site.baseurl}}/assets/img/Banff/P19.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Banff/P20.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Banff/P21.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Banff/P22.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Banff/P23.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Banff/P24.JPG" alt="">
