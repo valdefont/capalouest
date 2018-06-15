@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Brèves #4..."
+img: Breves4.JPG # Add image post (optional)
+date: 2018-06-09 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+- Dans notre budget prévisionnel, nous avions oublié la ligne 
+"perte de lunettes de soleil"... 
+Nous en sommes donc à 3 paires perdues, 
+1 paire rayée et 3 paires rachetées (et cela ne concerne que les enfants)!! 
+Hum, hum, il reste 2 mois de voyage...
+<br/><br/>
+- Dans la série "perdu, cassé", notre ordinateur a un petit souci 
+depuis quelques temps: tout a une teinte rougeâtre, 
+l'image est déformée et incomplète!!! 
+Apparemment la carte graphique n'a pas apprécié les vibrations 
+répétées à bord de notre "Robert". 
+Dans ces conditions, la rédaction du blog est devenue très laborieuse...
+Et racheter un PC et devoir s'habituer à un clavier QWERTY ne nous emballe pas...
+<br/><br/>
+- Depuis que nous avons franchi la frontière Canadienne, 
+nous sommes donc passés aux dollars Canadiens. En faisant nos courses,
+ nous nous surprenons à convertir les prix, 
+ non pas en euros mais en dollars US! 
+ Ça y est, nous avons nos repères américains! 
+ Comme quoi, les habitudes sont vite prises...
+<br/><br/>
+- Comme aux États-Unis, lorsqu'un feu est rouge et que l'on veut tourner à droite, il est parfois indiqué "No turn on red". Ben oui, quand même, on sait, on a eu notre permis, s'est-on dit la première fois!!!!
+En fait, lorsque ce panneau n'est pas présent, on peut tourner au rouge si la voie est libre. Habitude que nous commençons tranquillement à intégrer. Restera à ne pas la conserver à notre retour....;-)
+<br/><br/>
+- Dans la série 'Robert déconne'..., suite (et peut-être fin.... parce qu'on le rend bientôt!): un jour de juin très frais au parc de Jasper, nous voulons remettre le chauffage en route (parce que faire classe et 'écrire' sur la tablette avec des moufles, ça marche beaucoup moins bien...). Celui-ci souffle de l'air froid. Ce n'est pourtant pas l'air conditionné... La température baissant, Jordi sort le "Petit Robert non illustré" et voilà ce qu'il y a trouvé: lorsque le chauffage souffle de l'air froid, c'est peut-être qu'il fait trop froid dehors... Euh, c'est une blague??? Puis, il est conseillé de se déplacer pour aller dans un endroit plus chaud!!! On marche sur la tête là!!!! Et ben non, on roule avec Robert!
+Tout ça me refait d'ailleurs penser que le frigo ne fonctionne pas lorsqu'on se trouve trop haut en altitude (mais quand même pas si haut que ça...).
+Le "Robert" n'aime donc ni le froid, ni l'altitude... et devinez qui n'aime pas trop Robert...😤
+<br/><br/>
+- Qui a déjà cassé une bouteille de vin rouge dans sa cave ou dans sa cuisine? 
+Ceux à qui cette mésaventure est déjà arrivée se souviennent sûrement de 
+l'odeur persistante (en plus de la déception due à la perte du précieux breuvage!). 
+Ben voilà, c'est cette odeur (vin Chilien que nous n'aurons donc pas goûté) 
+qui va nous accompagner pendant nos 3 dernières semaines dans le RV....
+
+
+</p>
