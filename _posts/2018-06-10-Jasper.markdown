@@ -1,0 +1,81 @@
+---
+layout: post
+title: "C'est le nord !"
+img: Jasper.JPG # Add image post (optional)
+date: 2018-06-10 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+Pour aller dans le parc de Jasper, presque collé à Jasper, nous sommes passés 
+par une route fréquentée par des ours, mais nous n'en n'avons pas vu 😢😭😔.
+<br/><br/> 
+Juste à côté du parc, nous sommes allés nous balader sur Wilcox trail 
+et nous nous sommes enfoncés dans la neige. 
+Énormément de vent au sommet des collines, 
+mais une très belle vue sur 2 glaciers à la fin.
+<br/> 
+Nous sommes redescendus et, quand même(!), 
+c'est un glacier et nous nous sommes décidés à aller le voir de plus près. 
+<br/><br/>
+Le jour d'après, c'était ménage, école, et lessive...
+Bref , la journée un peu pas trop cool. 
+Mais ce qui est trop cool, c'est que les parents nous ont dit:
+-Les enfants, vous préférez faire du cheval ou du rafting ? <br/>
+Et ce qui est aussi trop cool c'est qu'on a encore vu un ours!
+<br/><br/>
+
+Pour le rafting- cheval, on a voté. On a du s'y reprendre à plusieurs fois 
+car on était 2 versus 2 mais finalement, on s'est décidé pour le rafting.<br/> 
+Donc, le lendemain, nous sommes allés réserver  le rafting. <br/>
+Et, le surlendemain, un monsieur  nous a emmené dans son bus 
+et nous avons du enfiler des combinaisons qui sentaient un peu fort et déjà
+ utilisées! Beurk !<br/>
+Bon, le monsieur  nous avait prévenu, on allait être mouillé, 
+surtout au début. On s'est pris plein de vagues, c'était très chouette!
+<br/><br/>
+Le jour d'après nous sommes allés faire une balade avec énormément de moustiques. 
+Horrible!<br/><br/>
+Ah, oui, nous avions encore vu un ours mis j'ai oublié de le dire avant. 
+Quelqu'un s'approchait beaucoup  alors qu'il avait un téléobjectif!  
+L' ours était tout près!(10m).
+Et le dernier jour nous en avons encore vu un mais celui là était encore plus près.<br/> 
+Puis quand nous partions parce qu'on l'avait bien observé, 
+nous sommes passés en RV à 3 m de lui !
+<br/><br/>
+Cet article a été rédigé par Gabin.
+</p>
+![]({{site.baseurl}}/assets/img/Jasper/P1.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P2.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P3.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P4.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P6.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P12.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P13.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P14.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P20.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P21.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Jasper/P22.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P23.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P25.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Jasper/P27.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P28.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Jasper/P29.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P30.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P31.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P32.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Jasper/P34.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P35.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P36.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P37.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Jasper/P38.JPG)<br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P39.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P40.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Jasper/P41.JPG)<br/><br/><br/>
+
+
+
+
+
+
+
