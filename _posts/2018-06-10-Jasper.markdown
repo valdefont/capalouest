@@ -15,13 +15,13 @@ et nous nous sommes enfoncés dans la neige.
 Énormément de vent au sommet des collines, 
 mais une très belle vue sur 2 glaciers à la fin.
 <br/> 
-Nous sommes redescendus et, quand même(!), 
+Nous sommes redescendus; quand même(!), 
 c'est un glacier et nous nous sommes décidés à aller le voir de plus près. 
 <br/><br/>
 Le jour d'après, c'était ménage, école, et lessive...
-Bref , la journée un peu pas trop cool. 
+Bref, la journée pas trop cool...
 Mais ce qui est trop cool, c'est que les parents nous ont dit:
--Les enfants, vous préférez faire du cheval ou du rafting ? <br/>
+"Les enfants, vous préférez faire du cheval ou du rafting ?" <br/>
 Et ce qui est aussi trop cool c'est qu'on a encore vu un ours!
 <br/><br/>
 
@@ -29,7 +29,7 @@ Pour le rafting- cheval, on a voté. On a du s'y reprendre à plusieurs fois
 car on était 2 versus 2 mais finalement, on s'est décidé pour le rafting.<br/> 
 Donc, le lendemain, nous sommes allés réserver  le rafting. <br/>
 Et, le surlendemain, un monsieur  nous a emmené dans son bus 
-et nous avons du enfiler des combinaisons qui sentaient un peu fort et déjà
+et nous avons dû enfiler des combinaisons qui sentaient un peu fort et déjà
  utilisées! Beurk !<br/>
 Bon, le monsieur  nous avait prévenu, on allait être mouillé, 
 surtout au début. On s'est pris plein de vagues, c'était très chouette!
@@ -57,9 +57,10 @@ Cet article a été rédigé par Gabin.
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P21.JPG" alt="">
 ![]({{site.baseurl}}/assets/img/Jasper/P22.JPG)<br/><br/><br/>
 ![]({{site.baseurl}}/assets/img/Jasper/P23.JPG)<br/><br/><br/>
-<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P25.JPG" alt="">
 ![]({{site.baseurl}}/assets/img/Jasper/P27.JPG)<br/><br/><br/>
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P28.JPG" alt="">
+![]({{site.baseurl}}/assets/img/Jasper/P28_2.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Jasper/P28_3.JPG)<br/><br/><br/>
 ![]({{site.baseurl}}/assets/img/Jasper/P29.JPG)<br/><br/><br/>
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P30.JPG" alt="">
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P31.JPG" alt="">
@@ -70,7 +71,7 @@ Cet article a été rédigé par Gabin.
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P37.JPG" alt="">
 ![]({{site.baseurl}}/assets/img/Jasper/P38.JPG)<br/><br/><br/>
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P39.JPG" alt="">
-<img class="Rot270" src="{{site.baseurl}}/assets/img/Jasper/P40.JPG" alt="">
+<img class="Rot90" src="{{site.baseurl}}/assets/img/Jasper/P40.JPG" alt="">
 ![]({{site.baseurl}}/assets/img/Jasper/P41.JPG)<br/><br/><br/>
 
 
