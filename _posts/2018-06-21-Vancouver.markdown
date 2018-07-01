@@ -22,10 +22,8 @@ qui rendent cette ville de 2 millions d'habitants attrayante et à taille humain
 
 </p>
 <br/><br/>
-![]({{site.baseurl}}/assets/img/Vancouver/P1.JPG)<br/><br/><br/>
-![]({{site.baseurl}}/assets/img/Vancouver/P2.JPG)<br/><br/><br/>
-![]({{site.baseurl}}/assets/img/Vancouver/P3.JPG)<br/><br/><br/>
-![]({{site.baseurl}}/assets/img/Vancouver/P4.JPG)<br/><br/><br/>
+
+
 <p>
 Le premier jour, histoire de ne pas être dépaysés trop vite par la ville, 
 nous partons nous balader à Lynn Valley dans une forêt avec un pont suspendu.<br/> 
@@ -44,11 +42,18 @@ Les enfants ont le plaisir de pouvoir retaper un peu dans la balle
  ![]({{site.baseurl}}/assets/img/Vancouver/P7.JPG)<br/><br/><br/>
 <p>
 Nous terminons la journée par un pique nique en bord de mer.
-<br/><br/>
+</p>
+![]({{site.baseurl}}/assets/img/Vancouver/P2.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Vancouver/P3.JPG)<br/><br/><br/>
+
+<p>
 Le jour suivant, nous profitons d'une journée à la plage. 
 On ne tente pas la baignade; l'eau est à 17°C et il y a beaucoup d'algues. 
 Par contre, les jeux de plage sont de sortie!
-<br/><br/>
+</p>
+![]({{site.baseurl}}/assets/img/Vancouver/P1.JPG)<br/><br/><br/>
+![]({{site.baseurl}}/assets/img/Vancouver/P4.JPG)<br/><br/><br/>
+
 <p>
 Le lendemain matin, lever à l'aube (7h!) car même de l'autre côté de l'atlantique,
  on supporte les bleus! La victoire est là mais pas l'ambiance 
@@ -107,13 +112,7 @@ d’origine asiatique! Nous avons donc naturellement envie de nous plonger
 dans cette ambiance. Pour cela nous nous rendons à un grand marché de nuit, 
 qui a lieu tous les week-end, de juin à octobre.
 <br/><br/>
-Le dernier jour est pluvieux. Nous en profitons pour faire classe et 
-nous balader sur une jetée de 4 km. Mais cette journée n'entame pas la 
-très belle impression que nous  avons de cette ville.
-Il ne nous reste qu'à vider le frigo afin de pouvoir (re)passer la frontière 
-Américaine sans encombre... 
-Les légumes, fruits, produits laitiers, viande et le bois ne sont pas autorisés!! 
-Bref, on a vidé le frigo de notre Robert...Pour une fois qu'il fonctionnait...
+
 </p>
 
 <img class="" src="{{site.baseurl}}/assets/img/Vancouver/P24.JPG" alt=""><br/><br/><br/>
@@ -127,7 +126,15 @@ Bref, on a vidé le frigo de notre Robert...Pour une fois qu'il fonctionnait...
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Vancouver/P31.JPG" alt="">
 <img class="" src="{{site.baseurl}}/assets/img/Vancouver/P32.JPG" alt=""><br/><br/>
 
-
+<p>
+Le dernier jour est pluvieux. Nous en profitons pour faire classe et 
+nous balader sur une jetée de 4 km. Mais cette journée n'entame pas la 
+très belle impression que nous  avons de cette ville.
+Il ne nous reste qu'à vider le frigo afin de pouvoir (re)passer la frontière 
+Américaine sans encombre... 
+Les légumes, fruits, produits laitiers, viande et le bois ne sont pas autorisés!! 
+Bref, on a vidé le frigo de notre Robert...Pour une fois qu'il fonctionnait...
+</p>
 
 
 
