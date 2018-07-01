@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vancouver.."
+title: "Canada...the end."
 img: Vancouver.JPG # Add image post (optional)
 date: 2018-06-18 01:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
@@ -21,7 +21,6 @@ qui rendent cette ville de 2 millions d'habitants attrayante et à taille humain
 <br/><br/>
 
 </p>
-<br/><br/>
 
 
 <p>
@@ -131,9 +130,9 @@ Le dernier jour est pluvieux. Nous en profitons pour faire classe et
 nous balader sur une jetée de 4 km. Mais cette journée n'entame pas la 
 très belle impression que nous  avons de cette ville.
 Il ne nous reste qu'à vider le frigo afin de pouvoir (re)passer la frontière 
-Américaine sans encombre... 
+américaine sans encombre... 
 Les légumes, fruits, produits laitiers, viande et le bois ne sont pas autorisés!! 
-Bref, on a vidé le frigo de notre Robert...Pour une fois qu'il fonctionnait...
+Bref, on a vidé le frigo de notre Robert...pour une fois qu'il fonctionnait...
 </p>
 
 
