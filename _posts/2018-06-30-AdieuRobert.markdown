@@ -16,7 +16,7 @@ de commencer un "nouveau voyage", et un peu tristes de cette première
 partie de l'aventure qui se termine, déjà...
 <br/><br/>
 Alors adieu Robert ! Ca n'a pas été toujours facile entre toi et nous mais tu
-as quand même réussi à nous mener à bon port, ...
+as quand même réussi à nous mener à bon port, ...<br/>
 Bonne chance aussi aux futurs locataires !
 
 Hasta la vista and On the road again !
