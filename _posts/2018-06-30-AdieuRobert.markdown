@@ -11,15 +11,15 @@ Sniff...On ne se sépare pas de Robert aussi facilement...<br/>
 Avant la date fatidique, il faut ranger, astiquer, vider les cuves...
 Toute la famille participe aux tâches. 
 <br/><br/>
-On est à la fois impatients
+On est à la fois impatient
 de commencer un "nouveau voyage", et un peu tristes de cette première 
 partie de l'aventure qui se termine, déjà...
 <br/><br/>
-Alors adieu Robert ! Ca n'a pas été toujours facile entre toi et nous mais tu
-as quand même réussi à nous mener à bon port, ...<br/>
+Alors adieu Robert ! Ça n'a pas toujours été facile entre toi et nous mais tu
+as quand même réussi à nous mener à bon port ...<br/>
 Bonne chance aussi aux futurs locataires !
-
-Hasta la vista and On the road again !
+<br/><br/>
+Hasta la vista, on the road again !
 </p>
 
 <img class="" src="{{site.baseurl}}/assets/img/AdieuRobert/P1.JPG" alt=""><br/><br/><br/>
