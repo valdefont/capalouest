@@ -12,7 +12,7 @@ Avant la date fatidique, il faut ranger, astiquer, vider les cuves...
 Toute la famille participe aux tâches. 
 <br/><br/>
 On est à la fois impatient
-de commencer un "nouveau voyage", et un peu tristes de cette première 
+de commencer un "nouveau voyage", et un peu triste de cette première 
 partie de l'aventure qui se termine, déjà...
 <br/><br/>
 Alors adieu Robert ! Ça n'a pas toujours été facile entre toi et nous mais tu
