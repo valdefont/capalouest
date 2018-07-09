@@ -1,0 +1,104 @@
+---
+layout: post
+title: "Seattle"
+img: Seattle.JPG # Add image post (optional)
+date: 2018-06-30 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+Nous attaquons Seattle, très tôt ce samedi 30 juin... 
+<br/>
+Robert est quasiment prêt à  nous quitter mais avant, petit détour par le "Café presse" de Seattle.<br/>
+Nous arrivons à 7h, heure de début du match de 1/8 de finale de la coupe du monde France - Argentine. Contrairement à notre première expérience footballistique à Vancouver, 
+ici le bar est plein! Quelques français mais aussi beaucoup de locaux supporters des bleus et quelques argentins.<br/>
+Nous commençons donc dehors le visionnage du match. Mais nous progressons doucement et petit à petit (les argentins nous faisant de la place..) 
+nous parvenons jusqu'au bar. Par contre ici la réglementation est très stricte: pas d'enfant sur un tabouret de bar, interdiction même de toucher le tabouret!!!<br/>
+L' ambiance est top, très conviviale et nous avons vibré devant ce superbe match, comme à la maison!
+
+<br/><br/>
+<iframe width="480" height="360" src="{{site.baseurl}}/assets/video/FootSeattle.mp4" frameborder="0"> </iframe>
+<br/><br/>
+Ensuite, Robert rendu, nous avons 2 jours pour visiter Seattle.
+Le temps est mitigé, Seattle étant réputé pour son climat pluvieux nous ne sommes pas surpris. 
+Et, finalement nous bénéficions d'un temps agréable et même ensoleillé par moments.
+<br/><br/>
+
+L'attraction à ne pas rater ici est le "Pike Market Place". Nous commençons donc par y flâner. 
+C'est un immense marché couvert avec beaucoup de fruits (délicieux), de poissons (énormes), de donuts, de fleurs... et du monde!! 
+À ne pas manquer non plus sur la place du marché, le premier Starbucks (une institution omniprésente aux USA), ouvert en 1971. 
+Une foule de gens se presse devant et à l'intérieur où le décor d'époque a été conservé.
+<br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P5.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P6.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Seattle/P7.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P8.JPG" alt=""><br/><br/><br/>
+<p>Le copain d'Antoine</p>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P9.JPG" alt=""><br/><br/><br/>
+<p>La petite famille de Gabin</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Seattle/P10.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P11.JPG" alt=""><br/><br/><br/><br/><br/>
+
+
+Nous poursuivons en passant le long du "Gum wall".<br/>
+Nul besoin de commentaires, la photo parle d'elle même!! Pas très ragoûtant...
+<br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P12.JPG" alt="">
+<br/><br/><br/><br/>
+
+Nous quittons ensuite ce quartier pour celui de Seattle Center. On trouve ici des espaces verts au milieu desquels se trouvent
+ la fameuse tour "Space Needle" - symbole de Seattle et reste de l'expo universelle de 1962-,  des musées et toujours de magnifiques aires de jeux.<br/><br/>
+Après un passage obligatoire par la structure géante "araignée-toboggans", nous optons pour le musée EMP (Experience Music Project), sur la musique 
+et la pop culture en général. Entre expositions sur Nirvana ou Jimi Hendrix (originaires de la ville), minis - studios pour s'essayer 
+à jouer de divers instruments, à faire le DJ, à mixer et une section consoles/jeux vidéos, chacun y trouve son compte.
+<br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Seattle/P13.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P14.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Seattle/P15.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P16.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Seattle/P17.JPG" alt="">
+<br/><br/>
+Après la visite du centre-ville le premier jour, nous choisissons de nous rendre dans des quartiers périphériques le lendemain.
+C'est à pied que nous décidons d'arpenter la  ville pour accéder à ces quartiers. <br/>
+Et, comme à San Francisco, ça grimpe beaucoup!!<br/>
+Après quelques miles et la traversée d'un énorme pont à bascule, nous arrivons à Ballard. C'est le quartier des hipsters avec pas mal de barbus
+ bien sur (c'est peut être à  eux que Jordi tente de ressembler!!), des petits restos sympas, un très chouette magasin de jeux en tous genres
+  où nous passons un bon moment.
+  <br/><br/>
+  <img class="" src="{{site.baseurl}}/assets/img/Seattle/P18.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Seattle/P19.JPG" alt=""><br/><br/><br/>
+<p>Est-ce une erreur de traduction?</p>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P20.JPG" alt=""><br/><br/><br/>
+  
+Mais à Ballard il y a aussi des écluses. Le trafic de bateaux, plus ou moins gros, à voile ou à moteur y est très important. 
+Non loin de là, un système d'escaliers permet aux saumons de descendre à la mer ou de remonter le cours d'eau. 
+On a beaucoup aimé regarder les poissons remonter ce courant fort et sauter les marches! 
+L'effort qu'ils doivent fournir est impressionnant et c'est tout juste si la foule ne les encourage pas!!!
+<br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Seattle/P21.JPG" alt=""><br/><br/><br/>
+<img class="Rot90" src="{{site.baseurl}}/assets/img/Seattle/P22.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Seattle/P23.JPG" alt=""><br/><br/><br/>
+
+Nous rejoignons ensuite le quartier Fremont. Ici, il y a de l'art de rue un peu partout.
+<br/><br/>
+
+<p>Julio, est-ce de l'art?</p>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P25.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P26.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P27.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P28.JPG" alt=""><br/><br/><br/>
+<p>Incroyable, Lenine aux States!...mais avec du sang sur les mains...</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Seattle/P29.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Seattle/P24.JPG" alt=""><br/>
+Cette camionnette ne fait pas partie de l'art de de rue ;-) <br/>
+En 2013, l'état de Washington est l'un des deux états aux US (avec le Colorado), 
+à légaliser le cannabis, aussi bien pour un usage médical que pour son plaisir perso.
+<br/><br/><br/><br/>
+
+Et c'est déjà la fin de la journée; l'heure de récupérer nos bagages et de filer à l'aéroport pour attraper notre vol pour La Nouvelle Orléans 
+à 23h59.<br/> Autant vous dire qu'on ne risque pas d'être très frais à notre arrivée... à voir dans le prochain numéro!
+<br/><br/>
+
+</p>
+
+
