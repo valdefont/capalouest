@@ -16,16 +16,17 @@ Vient ensuite la découverte de la ville . Rien à voir avec ce que nous avons
 pu voir dans l'ouest américain. Surnommée Big Easy, nous allons adorer y déambuler,
  flâner sans but précis, notamment dans le French quarter.<br/>
 On se laisse guider par la musique, omniprésente. Des orchestres présents
- dans les bars, des musiciens de tous âges dans les rues, qu'elle que soit l'heure.
+ dans les bars, des musiciens de tous âges dans les rues, quelle que soit l'heure.
    Mais aussi des diseuses de bonne aventure, des poètes en herbe qui écrivent 
   sur une machine à écrire dans la rue.<br/>
 Et évidemment, l'élégante architecture typique de style colonial caribéenne 
-au milieu d'une végétation luxuriante.
-Le mélange de cultures est frappant. Les origines caribéenne, africaine, espagnole, française  forment un joyeux patchwork.
+au milieu d'une végétation luxuriante.<br/>
+Le mélange de cultures est frappant. Les origines caribéenne, 
+africaine, espagnole, française forment un joyeux patchwork.
 
 <br/><br/>
 "NOLA" est également  un vrai plaisir pour la photo. 
-Les couleurs et l'agitation qui y règnent forment à tous les coins de 
+Les couleurs et l'agitation qui y règnent créent à tous les coins de 
 rues des tableaux vivants à  immortaliser.
 <br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Louisiane/P1.JPG" alt=""><br/><br/><br/>
@@ -55,6 +56,8 @@ La nourriture est singulière. Les spécialités sont le Jambalaya, le Gumbo, le
 Le 4 juillet, c'est la fête nationale américaine. 
 C'est assez semblable à notre 14 juillet, les locaux viennent en
 masse écouter de la musique et assister aux feux d'artifice. 
+Beaucoup d'américains affichent leur patriotisme à travers 
+leurs tenues vestimentaires.<br/>
 La vue sur la ville illuminée et le Mississippi est de toute beauté.
 <br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Louisiane/P18.JPG" alt=""><br/><br/><br/>
