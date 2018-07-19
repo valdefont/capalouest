@@ -60,9 +60,16 @@ Le dernier soir, nous allons écouter de la musique "live" dans un bar du french
 <img class="" src="{{site.baseurl}}/assets/img/Louisiane/P22.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Louisiane/P23.JPG" alt=""><br/><br/><br/>
 
-Après un quart de finale remporté par notre équipe favorite, mais très calme (nous sommes les seuls clients dans un bar allemand!), nous nous rendons vers Lafayette, à deux bonnes heures de route vers l'ouest, au coeur du pays cajun.
-Pour nous y rendre, nous traversons des kilomètres de "bayou", marais formé par des anciens bras du Mississippi.
-Nous partons visiter, "Vermilionville" , un village cajun reconstitué du 19ème siècle. La visite est très intéressante et permet de comprendre l'histoire des acadiens, les colons français expulsés du Canada par les britanniques au 18ème siècle.
+Après un quart de finale remporté par notre équipe favorite, mais très calme 
+(nous sommes les seuls clients dans un bar allemand!), 
+nous faisons route vers Lafayette, à deux bonnes heures de route vers l'ouest, 
+au coeur du pays cajun.<br/>
+Pour nous y rendre, nous traversons des kilomètres de "bayou", 
+marais formé par des anciens bras du Mississippi.<br/>
+Nous partons visiter, "Vermilionville" , un village cajun reconstitué 
+du 19ème siècle. La visite est très intéressante et permet de comprendre
+ l'histoire des acadiens, les colons français expulsés du Canada par 
+ les britanniques au 18ème siècle.<br/>
 Nous avons la chance d' y écouter de la musique Cajun, sorte de boeuf dominical où les locaux tentent  de préserver leurs traditions, et passons un bon moment.
 <br/><br/>
 Nous faisons ensuite une petite visite dans le "bayou", au lac Martin. Un orage violent nous rappelle que la nature dans cette région du sud, peut être très capricieuse. Des trombes d'eau en l'espace d'une petite heure!
