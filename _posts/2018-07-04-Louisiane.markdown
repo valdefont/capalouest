@@ -22,7 +22,7 @@ On se laisse guider par la musique, omniprésente. Des orchestres présents
 Et évidemment, l'élégante architecture typique de style colonial caribéenne 
 au milieu d'une végétation luxuriante.
 Le mélange de cultures est frappant. Les origines caribéenne, africaine, espagnole, française  forment un joyeux patchwork.
-On se croirait parfois dans "Autant en emporte le vent" (même si Jordi n'a aucune ressemblance avec Clark Gable...)
+
 <br/><br/>
 "NOLA" est également  un vrai plaisir pour la photo. 
 Les couleurs et l'agitation qui y règnent forment à tous les coins de 
