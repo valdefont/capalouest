@@ -24,8 +24,10 @@ au milieu d'une végétation luxuriante.
 Le mélange de cultures est frappant. Les origines caribéenne, africaine, espagnole, française  forment un joyeux patchwork.
 On se croirait parfois dans "Autant en emporte le vent" (même si Jordi n'a aucune ressemblance avec Clark Gable...)
 <br/><br/>
-"NOLA" est également  un vrai plaisir pour la photo.  Les couleurs et l'agitation qui y règnent forment à tous les coins de rues des tableaux vivants à  immortaliser.
-
+"NOLA" est également  un vrai plaisir pour la photo. 
+Les couleurs et l'agitation qui y règnent forment à tous les coins de 
+rues des tableaux vivants à  immortaliser.
+<br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Louisiane/P1.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Louisiane/P2.JPG" alt=""><br/><br/><br/>
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Louisiane/P3.JPG" alt=""><br/><br/><br/>
@@ -50,7 +52,10 @@ La nourriture est singulière. Les spécialités sont le Jambalaya, le Gumbo, le
 <img class="" src="{{site.baseurl}}/assets/img/Louisiane/P16.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Louisiane/P17.JPG" alt="">
 <br/><br/>
-Le 4 juillet, c'est la fête nationale américaine. C'est assez semblable à notre 14 juillet, les locaux viennent en masse écouter de la musique et assister aux feux d'artifice. La vue sur la ville illuminée le Mississippi est de toute beauté.
+Le 4 juillet, c'est la fête nationale américaine. 
+C'est assez semblable à notre 14 juillet, les locaux viennent en
+masse écouter de la musique et assister aux feux d'artifice. 
+La vue sur la ville illuminée et le Mississippi est de toute beauté.
 <br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Louisiane/P18.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Louisiane/P19.JPG" alt=""><br/><br/><br/>
