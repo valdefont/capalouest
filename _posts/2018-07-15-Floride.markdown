@@ -1,0 +1,106 @@
+---
+layout: post
+title: "Hot hot hot ! Tous à la flotte ..."
+img: Florida.JPG # Add image post (optional)
+date: 2018-07-20 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+Bon, 12 heures de route pour aller en bas de la Floride... mais on commence à être habitué !
+<br/><br/>
+Nous nous arrêtons quelques jours à Sarasota et Pensacola Beach. Le sable était blanc comme la neige et c'était le choc quand on est entré dans l'eau: 31 degrès!!
+Choc thermique ! C'était presque trop chaud.
+</p> 
+ <br/> <br/>
+ <img class="" src="{{site.baseurl}}/assets/img/Florida/P1.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P2.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P3.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P4.JPG" alt=""><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P5.JPG" alt="">
+<p> Ensuite direction Key West, de longues heures pour traverser toutes ces îles reliées par un pont. Là-bas la meilleure chose à voir est la rue Duval avec plein de magasins, 
+des vendeurs de jus de pastèques, un marché et un port au bout. <br/>
+Il y a aussi une borne (en photo en dessous d'ailleurs) qui indique que nous sommes à peine à 90 miles de Cuba !
+</p> 
+<br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P9.JPG" alt=""><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P10.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P11.JPG" alt=""><br/><br/><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P15.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P28.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P30.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P8.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P12.JPG" alt=""><br/><br/><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P13.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P14.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P16.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P6.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P7.JPG" alt=""><br/><br/><br/>
+
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P22.JPG" alt=""><br/><br/>
+<p>Le phare de Key West</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P29.JPG" alt=""><br/>
+<p> La maison d'Ernest Hemingway</p> <br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P31.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P32.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P33.JPG" alt=""><br/><br/><br/>
+<p> 
+Mais bon, toutes ces choses à voir ne nous empèchent pas d'aller supporter notre équipe de foot. ALLEZ LES BLEUS ! OUAIIIIIIIIS !
+Il faut avouer que dans le bar (où il y a au moins 20 télés) il n'y avait  que 5 personnes pour la Croatie. 
+L'ambiance était mise par des jeunes qui ont chanté tout le match. Surtout à la fin quand tous le monde à crié : 3,2,1, OUAIS, ON A GAGNÉ, ON EST LES CHAMPIONS!!!!!!!!!!!!!!!!!<br/>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br/>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br/>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br/>
+</p> 
+
+<p> 
+L'une des activités à faire à Key West est de partir en mer avec des masques et des tubas. Nous décidons d'aller faire cette sortie .
+ À peu près 1h et demie de bateau aller et pareil pour le retour. Le temps de se préparer ( maillots de bains, palmes, masques, tubas, discours du maître nageur 
+ d'au moins 20 minutes...) le temps passe vite et nous sommes déjà arrivés !
+L'eau est tellement claire qu'on voit à 10 mètres de profondeur ! Nous voyons un peu de tout : bancs de poissons lumineux, gros poissons multicolores d'au moins 1 mètre, 
+des noirs tout ronds , des petits transparents, des thons, et mêmes des petits requins ! Il y en a encore pas mal d'autres mais je ne peux quand même pas tout dire. 
+Des gens on même vu une grosse tortue !<br/>
+Le retour en bateau était sympa avec quelques boissons devant le coucher de soleil. <br/>
+Papa voulait sa bière devant les Keys, il l'a eue !
+</p> 
+<br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P17.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P18.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P19.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P20.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P21.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P23.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P24.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P25.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P26.JPG" alt=""><br/><br/><br/>
+<p> La fin de la Floride se passe plutôt à la plage, l'eau est toujours aussi belle.
+Petite frayeur un jour que nous nous étions posés à l'aise (Blaise!); un maître nageur ( petit jeune d'environ 17 ans ) siffle  et saute dans l'eau avec sa bouée. 
+Deux minutes après, deux autres sauveteurs arrivent en courant pour aider une dame qui n'arrivait plus à revenir. 
+Ah, j'avais oublié de dire que les courants étaient hyper forts par ici. A un moment où nous nous baignions, nous nous sommes retrouvés 500 m plus loin !
+<br/><br/>
+Bon, nous n'irons pas au plus gros Disney du monde car ça n'était pas dans le budget.
+<br/><br/>
+Voilà, c'est la fin de l'article, j'éspère que cela vous a plû.😁
+<br/><br/>
+Gabin 
+</p>
+<br/><br/>
+
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P34.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P35.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P36.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P37.JPG" alt=""><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P38.JPG" alt="">
+<p>Miami Beach</p>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P39.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P40.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P41.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P42.JPG" alt=""><br/><br/><br/>
+<p>Le quartier Cubain de Miami</p>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P43.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P44.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P45.JPG" alt=""><br/><br/><br/>
+<p>Et encore des plages...</p>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P46.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P47.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P48.JPG" alt=""><br/><br/><br/>
