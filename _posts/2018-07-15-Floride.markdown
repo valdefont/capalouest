@@ -37,7 +37,7 @@ Il y a aussi une borne (en photo en dessous d'ailleurs) qui indique que nous som
 <img class="" src="{{site.baseurl}}/assets/img/Florida/P6.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Florida/P7.JPG" alt=""><br/><br/><br/>
 
-<img class="" src="{{site.baseurl}}/assets/img/Florida/P22.JPG" alt=""><br/><br/>
+
 <p>Le phare de Key West</p>
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Florida/P29.JPG" alt=""><br/>
 <p> La maison d'Ernest Hemingway</p> <br/>
@@ -73,6 +73,7 @@ Papa voulait sa bière devant les Keys, il l'a eue !
 <img class="" src="{{site.baseurl}}/assets/img/Florida/P24.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Florida/P25.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Florida/P26.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Florida/P22.JPG" alt=""><br/><br/>
 <p> La fin de la Floride se passe plutôt à la plage, l'eau est toujours aussi belle.
 Petite frayeur un jour que nous nous étions posés à l'aise (Blaise!); un maître nageur ( petit jeune d'environ 17 ans ) siffle  et saute dans l'eau avec sa bouée. 
 Deux minutes après, deux autres sauveteurs arrivent en courant pour aider une dame qui n'arrivait plus à revenir. 

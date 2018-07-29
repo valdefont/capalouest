@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brèves #5..."
-img: Breves4.JPG # Add image post (optional)
+img: Breves5.JPG # Add image post (optional)
 date: 2018-07-23 01:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: 
@@ -17,6 +17,46 @@ Décidément les dommages collatéraux de ce dernier n'auraient
 pas fini de nous étonner...!<br/>
 Bon, finalement l'ordi nous a re-lâché 2 jours plus tard.... 
 a refonctionné et re-lâché!!!
+
+
+<br/><br/>
+
+- Devinez ce que l'on trouve le plus au bord des routes US?<br/>
+Des emballages de Mac do... perdu!<br/>
+Des canettes de coca... encore perdu!<br/>
+Non, ce sont des restes de pneus éclatés. Et il y en a énormément. 
+On se demande pourquoi... On imagine qu'ils sont de piètre qualité et surtout 
+usés à l'extrême... Pas très rassurant. Mais paradoxalement, 
+au vu des nombreux kilomètres avalés, nous avons vu très peu d'accidents.
+
+
+<br/><br/>
+- Depuis le début de notre voyage, nous avons pris l'habitude de toujours voir les américains avec une boisson à la main 
+dans la rue.
+Mais pour boire un coup entre amis, vous iriez où? Dans un bar, chez des amis, 
+sur la plage, non? <br/>
+Et bien ici, la mode c'est de partager sa canette de soda 
+ou de bière dans l'eau (il faut dire qu'elle est à 31°C..), debout en papotant... 
+Bien sûr,  quand il y a des vagues, c'est du sport... 
+et les poissons sont ravitaillés également...<br/>
+Alors forcément, nous pauvres français qui, par 35°C ne buvons que de l'eau fraîche sur la plage, on doit faire un peu ringards!!!
+
+
+<br/><br/>
+- Dans la série "vraiment pas ce qu'on préfère ici..."
+	* Les petits-déjeuners que nous prenons maintentant dans les hôtels où nous dormons ne sont franchement pas notre tasse de thé (!). 
+Difficile de manger sainement... gaufres, pain de mie, muffins, pancakes très industriels dont on se lasse très vite,
+beurre qui n'en a en fait que le nom... euh en fait non même pas!
+Ou encore, omelettes (à base d'oeufs??), frites, steacks hachés que nous n'avons pas goûté mais nous n'en éprouvons aucun regrets...!
+Et ne parlons pas des contenants, exclusivement à base de plastique, polystyrène ou parfois carton ( mais sans possibilité de trier les déchets de toute façon).
+Même en limitant au maximum, on ne se sent pas très écolo... Vous me direz, "parce qu'avec la consommation de Robert, vous étiez écolos???"... 
+<br/>
+	* Les énormes affiches publicitaires ventant une quelconque arme à feu...on ne s'y habitue pas... vraiment choquant!!!
+<br/>
+	* La plage de Daytona, accessible aux voitures. Eh oui, on peut venir s'y garer pour la modique somme de 20 dollars. Incompréhensible.
+Surtout lorsque l'on peut se garer à 200 mètres...
+<img class="" src="{{site.baseurl}}/assets/img/Breves5/P1.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Breves5/P2.JPG" alt=""><br/><br/><br/>
 
 <br/><br/>
 - Dans la série "nuits pourries"...<br/>
@@ -34,26 +74,5 @@ on l'imagine grand et fort!!! Et ça dure... 1h.... ça se calme,
  d'arrêter le calvaire de l'épouse, mais quand même la situation 
  avait quelque chose de comique!!
 
-<br/><br/>
-
-- Devinez ce que l'on trouve le plus au bord des routes US?<br/>
-Des emballages de Mac do... perdu!<br/>
-Des canettes de coca... encore perdu!<br/>
-Non, ce sont des restes de pneus éclatés. Et il y en a énormément. 
-On se demande pourquoi... On imagine qu'ils sont de piètre qualité et surtout 
-usés à l'extrême... Pas très rassurant. Mais paradoxalement, 
-au vu des nombreux kilomètres avalés, nous avons vu très peu d'accidents.
-
-
-<br/><br/>
-- On avait pris l'habitude de toujours voir les américains avec une boisson à la main 
-dans la rue.
-Mais pour boire un coup entre amis, vous iriez où? Dans un bar, chez des amis, 
-sur la plage, non? <br/>
-Et bien ici, la mode c'est de partager sa canette de soda 
-ou de bière dans l'eau (il faut dire qu'elle est à 31°C..), debout en papotant... 
-Bien sûr,  quand il y a des vagues, c'est du sport... 
-et les poissons sont ravitaillés également...<br/>
-Alors forcément, nous pauvres français qui, par 35°C ne buvons que de l'eau fraîche sur la plage, on doit faire un peu ringards!!!
-
 </p>
+
