@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brèves #5..."
+title: "<font color='#2e2e1f'>Brèves #5...</font>"
 img: Breves5.JPG # Add image post (optional)
 date: 2018-07-23 01:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
@@ -55,6 +55,8 @@ Même en limitant au maximum, on ne se sent pas très écolo... Vous me direz, "
 <br/>
 	* La plage de Daytona, accessible aux voitures. Eh oui, on peut venir s'y garer pour la modique somme de 20 dollars. Incompréhensible.
 Surtout lorsque l'on peut se garer à 200 mètres...
+<img class="" src="{{site.baseurl}}/assets/img/Breves5/P3.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Breves5/P4.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Breves5/P1.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Breves5/P2.JPG" alt=""><br/><br/><br/>
 
