@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Retour à l'école !"
+img: Daytona.JPG # Add image post (optional)
+date: 2018-07-26 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+En revenant de la plage de Daytona, nous passons en voiture devant une fanfare qui défile devant un bâtiment. 
+Nous nous garons rapidement afin d'assister au spectacle.<br/>
+Mais celui-ci est de courte durée, il semblerait que nous soyons arrivés un peu trop tard... Les lycéens composant 
+la fanfare  rejoignent l'école avec leurs instruments...
+Nous discutons un peu avec la mère d'une des musiciennes qui nous explique que la rentrée n'est que dans quinze jours, 
+mais que ces lycéens sont en stage de musique durant deux semaines.
+<br/><br/>
+Après quelques photos d'Antoine et Gabin avec les locaux, nous sommes invités à rejoindre la salle de répétition.
+ Au passage, notre hôte fait les présentations avec le chef d'orchestre.
+<br/>
+Ce dernier prend ensuite la parole devant la quarantaine de jeunes musiciens, très studieux. 
+Il leur explique alors qu'ils ont la chance d'avoir des invités venus de France pour les écouter et leur demande  
+s'ils sont prêts à donner le meilleur d'eux mêmes!
+<br/>
+Euh, on voudrait quand même pas trop vous mettre la pression les jeunes, nous ne sommes que des touristes 
+en tongues et shorts, les doigts de pieds encore plein de sable....
+<br/><br/>
+Au signal du chef, la musique commence. Nous sommes impressionnés par le niveau et la mise en place impeccable
+ sur le premier morceau. ( L'oreille de Carine affûtée par 20 ans d'harmonie ne s'y trompe pas...)
+<br/><br/>
+Mais ce n'est que la mise en bouche. Avant de débuter le second morceau,  la consigne du chef est claire: "Move!!"
+Et d'un coup c'est parti, avec une énergie folle, digne des batucadas !
+(Désolé  pour le son de l'appareil photo qui n'est pas à la hauteur...)
+
+</p>
+<img class="" src="{{site.baseurl}}/assets/img/Daytona/P0.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Daytona/P1.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Daytona/P2.JPG" alt=""><br/><br/><br/>
+<iframe width="480" height="360" src="{{site.baseurl}}/assets/video/Daytona.mp4?rel=0" frameborder="0"> </iframe>
+<p>
+<br/><br/>
+Après un troisième morceau et ayant remercié les musiciens pour leur prestation, nous suivons notre hôte qui nous propose la visite du lycée.
+ Une aile du bâtiment est consacrée aux arts. 
+Une salle pour les costumes, une salle de chorale, mais surtout une  salle de spectacle impressionnante.
+ Nous sommes surpris par les moyens mis en oeuvre dans un simple lycée. Mais nous ne sommes pas encore au bout de nos surprises!
+ <br/><br/>
+ En effet, une autre aile du bâtiment est consacrée aux sports. Nous apprenons que la salle a été financée par Vince Carter, 
+ un ancien élève du lycée de Daytona et ancien joueur de NBA. <br/>
+ On comprend un peu mieux! (Nous suggérons à nos récents champions du monde d'en faire autant..!).<br/>
+ Il a même un bureau personnel à l'entrée du gymnase !<br/>
+ Pas moins de 4 terrains de baskets permettent aux jeunes de pratiquer. Les gradins dans la salle principale sont escamotables, le parquet est splendide.
+ <br/><br/>
+ Nous visitons encore la bibliothèque et discutons avec l'un des responsables de ce lycée de 3000 élèves. Nous lui faisons part de notre surprise quant aux moyens déployés.
+ Mais nous apprenons également que les universités aux USA sont toutes payantes, environ 20 000 dollars par an!
+ Cela explique peut être pourquoi nos lycées ne sont pas au même niveau.
+ <br/><br/>
+ Ensuite nous comparons le système de santé et le nombre de congés respectifs, nos hôtes finissent par nous dire qu'ils viendraient bien vivre en France...
+ <br/><br/>
+ Nous repartons enchantés par cette visite imprévue et remercions une nouvelle fois nos "guides" pour leur accueil chaleureux!
+
+</p>
+<img class="" src="{{site.baseurl}}/assets/img/Daytona/P3.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Daytona/P4.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Daytona/P5.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Daytona/P6.JPG" alt=""><br/><br/><br/>
+<p>Chaque cadre présente un ancien élève de l'école ayant évolué en 1ere division de basket, football américain ou baseball. Impressionnant!</p>
+<img class="" src="{{site.baseurl}}/assets/img/Daytona/P7.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Daytona/P9.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Daytona/P8.JPG" alt=""><br/><br/><br/>
+
+
