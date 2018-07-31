@@ -33,6 +33,7 @@ avec de nombreux parcs donnant incontestablement beaucoup de cachet à cette cit
 <img class="" src="{{site.baseurl}}/assets/img/Savannah/P6.JPG" alt=""><br/><br/><br/>
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Savannah/P7.JPG" alt="">
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Savannah/P8.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P8_2.JPG" alt="">
 <img class="Rot270" src="{{site.baseurl}}/assets/img/Savannah/P9.JPG" alt="">
 <img class="" src="{{site.baseurl}}/assets/img/Savannah/P10.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Savannah/P11.JPG" alt=""><br/><br/><br/>
