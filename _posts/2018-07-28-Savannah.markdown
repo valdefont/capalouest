@@ -1,0 +1,81 @@
+---
+layout: post
+title: "La perle du Sud..."
+img: Savannah.JPG # Add image post (optional)
+date: 2018-07-28 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+Après nos pérégrinations en Floride, la remontée s'amorce vers Washington.
+L'étape obligée se nomme Savannah, en Georgie.
+<br/><br/>
+Le quartier historique, au style "antebellum" (avant la guerre de sécession ), possède une architecture de type colonial, aux influences multiples ( Espagnole, Française...).
+<br/><br/>
+En sortant de notre carrosse climatisé, l'atmosphère est étouffante. (On n'aurait pas pu supporter de vivre avec Robert par une chaleur pareille, le divorce est assumé !)
+<br/><br/>
+Le long du fleuve, nous arpentons les rues pavées (les premières que l'on voit depuis le début du voyage).
+Ici, dans l'ancien quartier des marchands de coton, les maisons sont en briques rouges.
+C'est assez agréable d'y flâner et d'aller par moments chercher la fraîcheur dans les boutiques pour touristes.
+<br/><br/>
+Mais bientôt, l'orage éclate (c'est presque journalier  depuis Miami) et nous finissons la visite du quartier sous une pluie  battante mais bienvenue.
+<br/><br/>
+Nous continuons en voiture, cela nous permet d'admirer les façades des maisons joliment restaurées. La construction de la vieille ville a été bien pensée, 
+avec de nombreux parcs donnant incontestablement beaucoup de cachet à cette cité également appelée la "perle du sud".
+</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Savannah/P1.JPG" alt="">
+<p>Cette statue symbolise l'abolition de l'esclavage et rappelle le sort de nombreux africains arrivant en Georgie.</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Savannah/P2.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P3.JPG" alt=""><br/><br/><br/>
+
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Savannah/P4.JPG" alt="">
+<p> Le port de Savannah est l'un des plus actifs de la côte est des États-Unis</p>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P5.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P6.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Savannah/P7.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Savannah/P8.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Savannah/P9.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P10.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P11.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P12.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P13.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P14.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P15.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P16.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P17.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P18.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/Savannah/P19.JPG" alt="">
+
+<p>
+Le lendemain, à quelques kilomètres  du centre-ville, nous nous rendons à la plantation "Wormsloe", célèbre pour son allée de chênes, longue de deux kilomètres.
+<br/>
+ Le propriétaire, un colon Anglais, avait en effet fait planter plus de 400 arbres pour la naissance de son fils, au 18ème siècle.
+Les garçons sont quelque peu jaloux... On ne comprend pas pourquoi, ils ont tout de même un pommier chacun dans notre jardin!!<br/>
+Mais cela ne nous empêche pas de visiter le parc, les ruines de la maison fortifiée, et de trainasser pour observer les petits crabes (avec deux pinces disproportionnées dont une énorme!), 
+les tétards et les grenouilles occupant les lieux. Nous passons un agréable moment.
+<br/><br/>
+</p>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P20_0.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P20.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P21.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P22.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P23.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P24.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P25.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P26.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P27.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P28.JPG" alt=""><br/><br/><br/>
+<p>
+Nous poursuivons avec la visite du très grand cimetière de Bonaventure. On peut le parcourir en voiture mais nous décidons plutôt d'en découvrir une partie à pied. 
+Rien à voir avec nos cimetières français. Beaucoup de verdure, de végétation, c'est un lieu agréable et j'oserais même dire reposant...
+<br/><br/>
+
+</p>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P29.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P30.JPG" alt=""><br/><br/><br/>
+<p>
+Mais pas d'orage ce jour, chaleur écrasante  et humidité. Nous optons donc pour une dernière petite baignade à 30°C, direction la plage de Tybee. 
+Pour cette dernière, Jordi et Gabin vont même apercevoir un aileron à  quelques dizaines de mètres d'eux... Bonne frayeur pour Gabin qui a dû battre son record 
+personnel du 25m...! Dauphin ou requin, la question faisait débat parmi les nageurs accoudés à leur bar virtuel (Voir Brèves #5...) :-)
+</p>
+<img class="" src="{{site.baseurl}}/assets/img/Savannah/P31.JPG" alt=""><br/><br/><br/>
