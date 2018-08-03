@@ -94,14 +94,14 @@ Puis nous finissons la journée par le "Capitol" (après une deuxième averse), 
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P20.JPG" alt=""><br/><br/><br/>
 <p>Hommage aux soldats de la guerre de Corée..."</p>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P21.JPG" alt=""><br/><br/><br/>
-<p>Martin Luther King Memorial"</p>
+<p>Martin Luther King Memorial</p>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P22.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P23.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P23_2.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P24.JPG" alt=""><br/><br/><br/>
 <p>Involontairement, nous ne sommes pas très présentables, mais sans regret !</p>
 <img class="Rot90" src="{{site.baseurl}}/assets/img/Washington/P25.JPG" alt=""><br/><br/><br/>
-<p>Les opposants ne sont pas loin, juste sur le trottoir d'en face !"</p>
+<p>Les opposants ne sont pas loin, juste sur le trottoir d'en face !</p>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P26.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P27.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P28.JPG" alt=""><br/><br/><br/>
@@ -114,7 +114,7 @@ Puis nous finissons la journée par le "Capitol" (après une deuxième averse), 
 
 <p>
 <br/><br/>
-Jusque'ici, nous avions toujours utilisé les transports en commun dans les villes, mais cette fois ci, c'est en "Uber" que nous rejoignons notre logement après
+Jusqu'ici, nous avions toujours utilisé les transports en commun dans les villes, mais cette fois ci, c'est en "Uber" que nous rejoignons notre logement après
 cette journée bien arrosée mais très enrichissante.<br/>
 En effet les déplacements en bus et metro depuis notre logement sont longs et plus chers que les taxis "nouvelle génération". <br/>
 
