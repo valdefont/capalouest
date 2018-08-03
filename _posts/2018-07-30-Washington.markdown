@@ -62,7 +62,7 @@ L'après midi est consacrée à la découverte du baseball. On avait fait quelqu
 <br/><br/>
 <p>
 Le 3ème jour est consacré à la visite des monuments. La plupart sont regroupés au même endroit, autour de la maison blanche.
-Nous commençons par le cimetière d'Arlington, où nous assistons à le relève de la garde devant la tombe du soldat inconnu. 
+Nous commençons par le cimetière d'Arlington, où nous assistons à la relève de la garde devant la tombe du soldat inconnu. 
 C'est très solennel, les enfants sont impressionnés mais cela ne leur donne pas envie d'intégrer l'armée...Ouf !!!
 A quelques pas, se trouve la tombe de Kennedy et des siens. 
 <br/><br/>
@@ -74,37 +74,42 @@ Après un pique-nique bien mérité et l'observation des écureuils par les enfa
 "Martin Luther King memorial". Une statue gigantesque rend hommage au pasteur activiste devenu héros national, et ses principaux discours y sont reproduits.
 Ici, la vue sur le lac Tidal est reposante.
 <br/><br/>
-Mais l'orage n'est pas loin lorsque nous nous dirigeons vers la Maison Blanche et la pluie commence à tomber. Nous nous réfugions sous un arbre mais bientôt, le feuillage ne suffit plus!
+Mais l'orage n'est pas loin lorsque nous nous dirigeons vers la Maison Blanche et la pluie commence à tomber. Nous nous réfugions sous un arbre mais bientôt, le feuillage 
+ne suffit plus!
 Mouillés pour mouillés, nous continuons sous un vrai déluge! (Une bonne "drache" pour les Ardennais qui nous lisent).
 Après avoir trouvé un abri et tordu nos t-shirts (Carine n'a pas voulu se prêter à l'exercice, bizarrement), nous passons devant la "White house". Donald semble bien gardé!
-Puis nous finissons la journée par le Capitole (après une deuxième averse), superbe monument abritant le congrès américain.
+Puis nous finissons la journée par le "Capitol" (après une deuxième averse), superbe monument abritant le congrès américain.
 
 
 </p>
+<p>Arlington cemetery.</p>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P13.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P14.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P15.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P16.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P17.JPG" alt=""><br/><br/><br/>
+<p>Lincoln Memorial</p>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P18.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P19.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P20.JPG" alt=""><br/><br/><br/>
+<p>Hommage aux soldats de la guerre de Corée..."</p>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P21.JPG" alt=""><br/><br/><br/>
+<p>Martin Luther King Memorial"</p>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P22.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P23.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P23_2.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P24.JPG" alt=""><br/><br/><br/>
-<p>Involontairement, nous ne sommes pas très présentables, mais aucun regrets !"</p>
+<p>Involontairement, nous ne sommes pas très présentables, mais sans regret !</p>
 <img class="Rot90" src="{{site.baseurl}}/assets/img/Washington/P25.JPG" alt=""><br/><br/><br/>
 <p>Les opposants ne sont pas loin, juste sur le trottoir d'en face !"</p>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P26.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P27.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P28.JPG" alt=""><br/><br/><br/>
-<p>Après la deuxième averse..."</p>
+<p>Après la deuxième averse...</p>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P29.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P30.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/Washington/P31.JPG" alt=""><br/><br/><br/>
-<p>La relève de la garde devant le capitole..."</p>
+<p>La relève de la garde devant le capitol...</p>
 <iframe width="480" height="360" src="{{site.baseurl}}/assets/video/ReleveGarde.mp4?rel=0" frameborder="0"> </iframe>
 
 <p>
