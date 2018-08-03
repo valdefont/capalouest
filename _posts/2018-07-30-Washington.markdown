@@ -114,9 +114,9 @@ Puis nous finissons la journée par le "Capitol" (après une deuxième averse), 
 
 <p>
 <br/><br/>
-Jusqu'ici, nous avions toujours utilisé les transports en commun dans les villes, mais cette fois ci, c'est en "Uber" que nous rejoignons notre logement après
+Jusqu'ici, nous avions toujours utilisé les transports en commun dans les villes, mais cette fois-ci, c'est en "Uber" que nous rejoignons notre logement après
 cette journée bien arrosée mais très enrichissante.<br/>
-En effet les déplacements en bus et metro depuis notre logement sont longs et plus chers que les taxis "nouvelle génération". <br/>
+En effet les déplacements en bus et métro depuis notre logement sont longs et plus chers que les taxis "nouvelle génération". <br/>
 
 En discutant avec notre chauffeur de taxi, qui travaille avec "Uber" depuis 3 ans et a conduit plus de 12000 clients, nous apprenons qu'ici aussi, l'envers du décor 
 est loin d'être rose.
