@@ -120,7 +120,7 @@ En effet les déplacements en bus et métro depuis notre logement sont longs et 
 
 En discutant avec notre chauffeur de taxi, qui travaille avec "Uber" depuis 3 ans et a conduit plus de 12000 clients, nous apprenons qu'ici aussi, l'envers du décor 
 est loin d'être rose.
-<br/>Sur la plupart de ses courses, il gagne quatre fois moins qu'avant lorsqu'il avait sa propre license, et sur beaucoup de courses, il perd de l'argent.
+<br/>Sur la plupart de ses courses, il gagne quatre fois moins qu'avant lorsqu'il avait sa propre licence, et sur beaucoup de courses, il perd de l'argent.
 D'après lui, beaucoup de chauffeurs n'arrivent plus à joindre les deux bouts.<br/>
 Alors, c'est promis, à New York, on prendra le métro !
 </p>
