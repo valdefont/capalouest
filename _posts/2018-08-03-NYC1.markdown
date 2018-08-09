@@ -1,0 +1,138 @@
+---
+layout: post
+title: "Plein les yeux..."
+img: NYC1.JPG # Add image post (optional)
+date: 2018-08-03 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+New York! On est à New York!
+Vous y croyez les enfants? Depuis le temps que l'on en parlait de cette ville, la cerise sur le gâteau de ce voyage commencé il y a plus de 5 mois...
+<br/><br/>
+Après 4 heures de bus depuis Washington, on débarque donc avec nos quatre grosses valises et nos sacs en plein Manhattan. La station de métro est à 15 minutes 
+de marche et la pluie commence à tomber. Quel accueil !<br/>
+On descend tant bien que mal nos affaires, trempés comme des soupes, et on s'assoit enfin dans la rame.
+Après quelques stations, le doute nous envahit... Est-on dans la bonne direction?
+Nos voisins nous confirment que non...<br/>
+On remonte tout le barda...on se reprend l'averse, on redescend tout le barda dans la bonne station.<br/>
+On arrive à notre location après 2 bonnes heures, lessivés.
+
+<br/><br/>
+
+Mais ça y est, notre séjour New-Yorkais peut commencer. Après une petite collation, nous décidons d'en mettre plein la vue aux enfants.
+Et pour cela, quoi de mieux que Times Square, à la nuit tombée ?<br/>
+Cette fois, nous prenons le métro dans le bon sens et 40 petites minutes suffiront...<br/>
+Les yeux pétillent devant cette fresque animée.
+On ne peut rester indifférent à cet ancien quartier mal famé devenu temple de la consommation aux milles lumières.
+Ici, tout est bon pour le business, souvent attrape-touriste, mais la frénésie et l'ambiance qui y règnent nous font passer un très bon moment.
+<br/><br/>
+</p>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P1.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P2.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P3.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P4.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P5.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P6.JPG" alt=""><br/><br/><br/>
+<p>
+Le lendemain, nous nous levons de bonne heure pour nous rendre au "One World Observatory" (OWO), la tour reconstruite après la tragédie de 2001.<br/>
+Cette fois encore, nous sommes acceuillis par une pluie battante à la sortie du métro. Nous reportons notre visite au début d'après midi, la météo s'annonçant 
+plus clémente pour une visite à près de 385 mètres d'altitude (le haut de la tour culmine à 540m).<br/>
+En attendant, nous nous baladons à l'intérieur, dans le magnifique centre commercial qui jouxte le OWO. Puis, la pluie ayant cessé, nous partons à pied 
+jusqu'au pont de Brooklyn. Première occasion pour les enfants de découvrir Manhattan avec un peu de recul et surtout première vue sur la Statue de la Liberté. 
+Elle est loin mais quand même "on en a tellement parlé, ça fait bizarre de la voir en vrai" (dixit Gabin).
+
+</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P7.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P8.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P9.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P10.JPG" alt=""><br/><br/><br/>
+<p>Le pont de Brooklyn.</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P13.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P14.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P15.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P16.JPG" alt=""><br/><br/><br/>
+<p>
+Le ciel étant maintenant dégagé, nous retournons à OWO.<br/>
+Nous prenons tout d'abord l'ascenseur direction le 102 ème étage. Montée express (47 secondes) avec une chouette vidéo retraçant l'histoire de la construction de la ville 
+de New York. À l'arrivée nous sommes dirigés devant une multitude d'écrans sur lesquels sont projetées des images de la ville, jusqu'au point d'orgue de cette mise en scène... 
+À voir dans la vidéo qui suit, sauf si vous avez prévu de visiter NYC!<br/>
+Ensuite, nous admirons la grosse pomme de tous les côtés. La vue est époustouflante et les tablettes nous permettent d'explorer virtuellement les sites incontournables.
+Cela permet aux enfants de repérer les différents monuments et quartiers mais également de réaliser l'immensité de Manhattan. Depuis là haut, certains buildings paraissent 
+presque petits...
+<br/><br/>
+</p>
+
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P17.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P18.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P23.JPG" alt="">
+<iframe width="480" height="360" src="{{site.baseurl}}/assets/video/NYC1.mp4?rel=0" frameborder="0"> </iframe>
+<br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P19.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P20.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P21.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P22.JPG" alt="">
+<p>
+Moment émouvant quand nous redescendons: nous allons voir les bassins créés en lieu et place des tours jumelles. Les noms des victimes sont gravés sur les contours. 
+De nombreux arbres ont été plantés. De l'eau, de la pierre, de la verdure, l'ensemble est vraiment réussi. Sans nous rendre au mémorial du 11/9, nous essayons d'expliquer 
+l'inexpliquable aux enfants... Pas simple, beaucoup de questions, de l'inquiétude aussi...
+</p>
+
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P11.JPG" alt=""><br/><br/><br/>
+<p>Le seul arbre ayant survécu le 11 Septembre, devenu symbole de résilience...</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P12.JPG" alt="">
+<br/><br/>
+<p>
+Pour terminer cette journée déjà bien remplie, nous retournons à Times Square pour y retrouver des copains. Grosse séance de papotage dans cette ambiance très animée.<br/>
+Le temps de rentrer, le coucher est tardif... nous sommes bien dans 'la ville qui ne dort jamais'!!
+</p>
+
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P24.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P25.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P26.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P27.JPG" alt="">
+<br/><br/>
+<p>
+Dimanche, lever tardif. Nous décidons d'imiter les locaux et d'aller pique niquer à Central Park. En arrivant, les enfants nous confient leur étonnement: 
+ça ne ressemble pas du tout aux autres parcs déjà visités! <br/>
+Pour autant, nous rencontrons très vite quelques animaux, pour leur plus grande joie (tortues, canards). 
+Nous prenons quelques forces en regardant des matchs de beach volley puis nous repartons déambuler, observer. On prend la température du poumon de New York... 
+( Au sens propre elle est très haute!!). L'ambiance, elle, est agréable. Dès qu'on avance un peu on change de 'spectacle': musiciens, "faiseurs"de bulles, 
+danseurs-gymnastes, chanteurs, hommes aux serpents, bassins, statues...
+
+</p>
+<p>Une petite reprise des Stones dans le métro...</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P28.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P29.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P30.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P31.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P32.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P33.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P34.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P35.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P36.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P37.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P38.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P39.JPG" alt="">
+<p>
+Nous n'avons parcouru qu'une partie de Central Park mais nous le quittons pour prendre un tout petit peu de hauteur.<br/>
+Les enfants sont ravis, nous retrouvons leurs copines pour prendre le téléphérique qui relie Manhattan et Roosevelt Island en surplombant l'East River. <br/>
+On se balade tranquillement, c'est calme et reposant par rapport à l'effervescence de Manhattan. Nous allons jusqu'à l'extrémité sud de cette petite île étroite, 
+occupée par les ruines du Smallpox Hospital fermé depuis les années 1950 et par le Four Freedom Park. <br/>
+Ce dernier est un grand parc arboré qui offre une magnifique 
+vue sur le Chrylser building ou encore sur le bâtiment abritant les Nations Unies. Pas sûr que les enfants aient beaucoup profité de la vue tant la joie de se retrouver 
+et de partager des jeux ensemble les ont occupés!!
+</p>
+<p>Le "MET", le Metropolitan museum...</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P40.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P41.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P42.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P42_2.JPG" alt=""><br/><br/><br/>
+<p>En blanc, la Chrysler Tower.</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P43.JPG" alt="">
+<p>Le bâtiment des Nations Unies...</p>
+<img class="" src="{{site.baseurl}}/assets/img/NYC1/P44.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P45.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC1/P46.JPG" alt="">
+
+<p>À suivre...</p>

@@ -1,0 +1,58 @@
+---
+layout: post
+title: "À pleines dents !"
+img: NYC2.JPG # Add image post (optional)
+date: 2018-08-06 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+</p>
+
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P1.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P2.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P3.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P4.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P5.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P6.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P7.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P8.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P9.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P10.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P11.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P12.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P13.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P14.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P15.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P16.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P17.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P18.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P19.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P20.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P21.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P22.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P23.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P24.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P25.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P26.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P27.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P28.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P29.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P30.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P31.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P32.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P33.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P34.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P35.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P36.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P37.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P38.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P39.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P40.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P41.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P42.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P42_2.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P43.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P44.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P45.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P46.JPG" alt=""><br/><br/><br/>
