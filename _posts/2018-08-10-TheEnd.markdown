@@ -1,0 +1,38 @@
+---
+layout: post
+title: "The End !"
+img: TheEnd.JPG # Add image post (optional)
+date: 2018-08-10 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+
+<p>
+Quelques paires de lunettes en moins, une valise en plus et des souvenirs en pagaille... c'est la fin de notre belle aventure.<br/>
+Un petit pincement au coeur mais aussi une grande joie à l'idée de revoir notre famille et nos amis.<br/>
+Merci à tous ceux qui nous ont suivi, répondu, c'était très agréable de partager cette expérience. Elle en valait vraiment la peine, avis aux amateurs!!
+<br/><br/>
+Un petit bilan suivra dans quelques jours, lorsque nous aurons récupéré de la nuit blanche, du décalage horaire et digéré l'émotion du retour...
+<br/><br/>
+</p>
+<p>Passage express à Manhattan avant de prendre la navette...</p>
+<img class="Rot90" src="{{site.baseurl}}/assets/img/TheEnd/P1.JPG" alt="">
+<p>Dernière rédaction de post à l'aéroport... tout le monde s'y met!</p>
+<img class="" src="{{site.baseurl}}/assets/img/TheEnd/P2.JPG" alt=""><br/><br/><br/>
+<p>L'oeuvre de Carine dans l'avion...</p>
+<img class="" src="{{site.baseurl}}/assets/img/TheEnd/P3.JPG" alt="">
+<p>Aéroport du Luxembourg, la boucle est bouclée...</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/TheEnd/P4.JPG" alt="">
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+ 

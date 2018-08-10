@@ -1,0 +1,179 @@
+---
+layout: post
+title: "À pleines dents !"
+img: NYC2.JPG # Add image post (optional)
+date: 2018-08-06 01:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: 
+---
+<p> 
+On l'attendait on la eue!<br/>
+Puisque nous avions des amis en même temps que nous à New York, nous sommes allés faire la visite de la Satue de la Liberté avec eux😁.<br/>
+Nous arrivons au ferry. Dedans, c'était rempli. Nous arrivons sur cette petite île.
+L'endroit est plutôt paisible.
+La Statue est plus haute que ce qu'on croit.<br/>
+Nous commençons par la contourner: magnifique vue. Nous observons la statue de Gustave Eiffel qui a fait les fondations.<br/>
+Après ce moment extraordinaire nous reprenons un ferry pour aller visiter un musée sur Ellis Island. Ce musée explique l'arrivée des immigrants aux États-Unis.<br/>
+Ça vaut le coup d'aller au deux!!<br/>
+Antoine 
+</p>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P1.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P3.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P4.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P5.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P6.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P7.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P8.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P9.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P10.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P11.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P12.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P13.JPG" alt=""><br/><br/><br/>
+<p>
+<br/><br/>
+Après ce moment intense, direction Little Italy. Ce quartier se résume en fait à une rue, essentiellement des restaurants. Par cette chaleur, une petite glace est grandement 
+appréciée avant de faire quelques emplettes dans les nombreuses boutiques de souvenirs.<br/>
+
+</p>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P14.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P15.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P16.JPG" alt="">
+<p>
+Nous retrouvons ensuite les copains pour une dernière soirée avant leur retour. Nous prenons le ferry pour Staten Island. Celui-ci est le moyen de transport de nombreux 
+New-Yorkais venant travailler quotidiennement sur Manhattan. Mais pour nous c'est l'occasion de passer une nouvelle fois non loin de Miss Liberty, on ne s'en lasse pas!<br/>
+Nous pique-niquons ensuite sur Staten Island en attendant que la nuit tombe et que les lumières s'allument. Les enfants retrouvent leurs habitudes: jouer au loup, à 
+'Grand - mère aimes - tu? '...<br/>
+Puis nous effectuons le trajet retour: magnifique vue sur les gratte-ciels de Manhattan, les ponts illuminés et toujours la célèbre Statue...<br/>
+Cette journée se termine. Comme chaque soir, nous sommes bien fatigués mais des étoiles brillent dans les petits yeux qui se ferment...
+<br/><br/>
+</p>
+
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P17.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P18.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P19.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P20.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P21.JPG" alt=""><br/><br/><br/>
+<p>
+4ème jour. On prend le temps le matin,  il faut quand même dormir un peu..<br/>
+Nous partons pour le centre de Manhattan, plus précisément Greenwich Village. Ancien quartier branché dans les années 70 où de nombreux artistes ont joué ou débuté 
+(Jimi Hendrix, Bob Dylan...). C'est l'un des rares endroit où l'on peut trouver des rues qui tournent à Manhattan.<br/>
+On se restaure dans le Washington Square Park. Un arc en l'honneur de George Washington n'est pas sans rappeler le célèbre monument parisien.
+Un pianiste agrémente sympathiquement notre repas.
+<br/><br/>
+</p>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P22.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P23.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P24.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P25.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P27.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P28.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P29.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P30.JPG" alt=""><br/><br/><br/>
+<p>
+Nous nous rendons ensuite au départ de la High line, située à quelques blocs de là. Il s'agit en fait d'un parc linéaire urbain aménagé sur la portion désaffectée 
+d'une ancienne voie ferrée. Balade très agréable d'un peu plus de 2kms, non loin de l'Hudson River, entre des buildings, des oeuvres
+contemporaines, le tout au milieu d'une jolie végétation. <br/>
+Sur le chemin qui nous mène ensuite à l'Astor theater, nous faisons une halte devant le "Flat Iron building". Cet immeuble ne peut laisser indifférent tant sa forme est originale!
+
+<br/><br/>
+</p><p> Départ de la High line</p>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P31.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P32.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P33.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P34.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P35.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P36.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P37.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P38.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P39.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P40.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P41.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P42.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P42_2.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P43.JPG" alt="">
+<p>Le "Flat Iron building"</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P44.JPG" alt="">
+<p>
+Pendant tout le voyage, on s'était dit :quand on ira voir le spectacle, c'est que se sera la fin. Et puis là, on y est déjà  ! On se réjouissait  d'y aller mais 
+les parents ne voulaient pas nous dire ce que c'était. Finalement nous sommes allés voir le "blue man group", trois personnes maquillées de la tête au pieds, en bleu. 
+C'était vraiment super, et aussi très drôle😂.<br/>
+Deux fois pendant le spectacle ils ont emmené des gens du public pour faire le show. La 2ème fois, ils ont fait enfiler une combinaison à la personne,
+ l'ont peinte en bleu puis l'ont balancé contre le mur ! Vlan ! Du coup, on voyait la trace de son corps dessus. Ils on mis des effets stroboscopiques sur la salle. 
+ C'était  impressionnant! Il y avait même un orchestre déguisé, il y avait de l'ambiance.<br/>
+Avec Antoine,  nous avons acheté une tasse 'Blue man group' aux parents. Quand la dame nous a dit qu'il n'y en avait plus on était déçus. Mais nous avons insisté et
+ elle a accepté de nous vendre celle de la vitrine 😲!<br/>
+ Gabin
+</p>
+
+
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P45.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P46.JPG" alt=""><br/><br/><br/>
+
+<p>
+Et voilà, nous y sommes, dernier jour à NYC et surtout point final à nos presque 6 mois de voyage...
+Nous commençons notre journée par Chinatown. De nombreux magasins de souvenirs, des étals de fruits - dont beaucoup nous sont inconnus- 
+et surtout des enseignes et une population qui nous dépaysent totalement! Quelques derniers achats plus tard, nous nous posons dans le parc Colombus pour manger. 
+Des musiciens accompagnent notre repas... nous n'avons rien contre la musique dissonante mais lorsque c'est voulu et maitrisé...c'est mieux!!!<br/> 
+Ce parc est également équipé de nombreuses tables en pierre où beaucoup de retraités s'adonnent au jeu de Go.
+
+</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P47.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P48.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P49.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P50.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P51.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P52.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P53.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P54.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P55.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P56.JPG" alt=""><br/><br/><br/>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P57.JPG" alt="">
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P57_2.JPG" alt="">
+<p>
+Ensuite, nous allons voir de plus près l'Empire State Building (même si lorsqu'on est au pied, on n'en aperçoit pas le sommet),
+ le Chrysler building qui fût le plus haut de New York pendant un an avant l'arrivée de l'Empire State. 
+ S'en suit un petit tour à Grand Central Station, la gare de la ville qui vaut le détour, notamment pour son hall impressionnant.<br/> 
+ Et nous terminons par la cathédrale Saint-Patrick située dans le même quartier, plantée au milieu des tours. Le mélange des genres est vraiment réussi!
+ <br/><br/>
+ </p>
+ <img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P58.JPG" alt="">
+ <p>7$ la minute (Vous avez bien lu!) pour ces pousse-pousse éléctriques....Avis aux amateurs...</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P59.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P60.JPG" alt=""><br/><br/><br/>
+
+<p>Gabin trouve que les nouveaux taxis jaunes n'ont plus le charme d'antan. On est d'accord!</p>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P61.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P62.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P63.JPG" alt=""><br/><br/><br/>
+
+<p>Grand Central devant le Chrysler building </p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P64.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P65.JPG" alt=""><br/><br/><br/>
+<p>La cathédrale St Patrick</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P66.JPG" alt="">
+
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P67.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P68.JPG" alt=""><br/><br/><br/>
+<p>Beatles revival en Septembre !</p>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P69.JPG" alt=""><br/><br/><br/>
+ <p>
+ Voilà, la journée se termine. Nous allons trinquer à cette dernière soirée autour d'un pique-nique dans le magnifique "Bryan Park".
+ La vue sur l'Empire State Building qui s'illumine sonne la fin du voyage d'une bien belle façon. <br/>
+ En descendant les marches du métro, nous ne pouvons nous empêcher de nous retourner encore une fois 
+ sur cette ville qui nous a tant plû (les petits comme les grands), le coeur un peu gros...
+</p>
+
+
+
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P70.JPG" alt=""><br/><br/><br/>
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P71.JPG" alt=""><br/><br/><br/>
+<p>Qu'il est beau l'Empire State Building la nuit !</p>
+<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P72.JPG" alt=""><br/><br/><br/>
+
+
+ 
+ 
+ 
+ 
+
+ 
