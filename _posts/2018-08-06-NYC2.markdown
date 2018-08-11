@@ -138,7 +138,7 @@ Ensuite, nous allons voir de plus près l'Empire State Building (même si lorsqu
  </p>
  <img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P58.JPG" alt="">
  <p>7$ la minute (Vous avez bien lu!) pour ces pousse-pousse éléctriques....Avis aux amateurs...</p>
-<img class="Rot270" src="{{site.baseurl}}/assets/img/NYC2/P59.JPG" alt="">
+<img class="" src="{{site.baseurl}}/assets/img/NYC2/P59.JPG" alt=""><br/><br/><br/>
 <img class="" src="{{site.baseurl}}/assets/img/NYC2/P60.JPG" alt=""><br/><br/><br/>
 
 <p>Gabin trouve que les nouveaux taxis jaunes n'ont plus le charme d'antan. On est d'accord!</p>
